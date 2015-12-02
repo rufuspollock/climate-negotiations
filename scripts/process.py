@@ -1,4 +1,41 @@
-import unittest
+'''
+Example usage:
+
+    python scripts/process.py scraped/1205000e.txt 
+'''
+import os
+
+baseurl = 'http://www.iisd.ca/vol12/'
+
+def convert(inpath, outpath=None):
+    fileid = os.path.splitext(os.path.basename(inpath))[0]
+    print fileid
+    if outpath == None:
+        outpath = os.path.join('enb', fileid, 'index.md')
+
+    parentdir = os.path.dirname(outpath)
+    if not os.path.exists(parentdir):
+        os.makedirs(parentdir)
+
+    title, text = txt2markdown(open(inpath))
+    fout = open(outpath, 'w')
+
+    fout.write('''---
+title: %s
+id: %s
+url: %s
+date:
+---
+
+''' % (title, fileid, baseurl + fileid)
+)
+    fout.write(text)
+    fout.close()
+
+def convertall():
+    # TODO: walk through the scraped directory and process all ofthem
+    # Before doing this i'd make sure we really have this working well
+    pass
 
 def txt2markdown(fileobj):
     txt = fileobj.read()
@@ -30,11 +67,9 @@ def test_it():
 
 import sys
 if __name__ == '__main__':
-   from_ = sys.argv[1]
-   to_ = sys.argv[2]
-   title, text = txt2markdown(open(from_))
-   fout = open(to_, 'w')
-   fout.write('---\ntitle: %s\n---\n\n' % title)
-   fout.write(text)
-   fout.close()
+    from_ = sys.argv[1]
+    to_ = None
+    if len(sys.argv) > 2:
+       to_ = sys.argv[2]
+    convert(from_, to_)
 
