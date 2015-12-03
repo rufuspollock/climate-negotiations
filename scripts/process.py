@@ -33,7 +33,7 @@ def convert(inpath, outpath=None):
     if not os.path.exists(parentdir):
         os.makedirs(parentdir)
 
-    title, text = txt2markdown(open(inpath))
+    title, abstract, text = txt2markdown(open(inpath))
     fout = open(outpath, 'w')
 
     # Searches for the date in the title
@@ -49,9 +49,10 @@ title: %s
 id: %s
 url: %s
 date: %s
+abstract: %s
 ---
 
-''' % (title, fileid, baseurl + fileid, date)
+''' % (title, fileid, baseurl + fileid, date, abstract)
 )
     fout.write(text)
     fout.close()
@@ -74,7 +75,7 @@ def txt2markdown(fileobj):
         line = line.replace('::H3::', '### ')
         line = line.replace('::TITLE::', '')
         line = line.replace('::BODY::', '')
-        line = line.replace('::ABSTRACT::', '')
+        line = line.replace('::ABSTRACT::', '<abstract>')
 
         # Make paragraphs out of '.§'
         line = line.replace('.\xc2\xa7', '.\n')
@@ -97,9 +98,15 @@ def txt2markdown(fileobj):
     lines = [ line for group in lines for line in group ]
 
     title = lines.pop(0)
+
+    if lines[0].startswith('<abstract>'):
+        abstract = lines.pop(0)[len('<abstract>'):]
+    else:
+        abstract = ''
+
     txt = '\n\n'.join(lines)
 
-    return (title, txt)
+    return title, abstract, txt
 
 def test_it():
     path = 'samples/1205000e.txt'
