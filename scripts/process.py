@@ -56,10 +56,15 @@ date: %s
     fout.write(text)
     fout.close()
 
-def convertall():
-    # TODO: walk through the scraped directory and process all ofthem
-    # Before doing this i'd make sure we really have this working well
-    pass
+def convertall(indir):
+    infiles = [
+        os.path.join(indir, f)
+        for f in os.listdir(indir)
+        if os.path.isfile(os.path.join(indir, f))
+    ]
+
+    for infile in infiles:
+        convert(infile)
 
 def txt2markdown(fileobj):
     def fix(line):
@@ -104,9 +109,17 @@ def test_it():
     assert len(lines) == 0
 
 if __name__ == '__main__':
-    from_ = sys.argv[1]
-    to_ = None
-    if len(sys.argv) > 2:
-       to_ = sys.argv[2]
-    convert(from_, to_)
+    try:
+        from_ = sys.argv[1]
+    except IndexError:
+        from_ = 'scraped'
 
+    try:
+        to_ = sys.argv[2]
+    except IndexError:
+        to_ = None
+
+    if os.path.isfile(from_):
+        convert(from_, to_)
+    else:
+        convertall(from_)
