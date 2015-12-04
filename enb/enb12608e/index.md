@@ -1,0 +1,57 @@
+---
+title: "LIMA CLIMATE CHANGE CONFERENCE, 1-12 DECEMBER 2014"
+id: enb12608e
+url: http://www.iisd.ca/vol12/enb12608e
+date: 2014-12-12
+abstract: "The UN Climate Change Conference opens today in Lima, Peru, and will continue until 12 December. The Conference includes the 20th session of the Conference of the Parties (COP 20) to the UN Framework Convention on Climate Change (UNFCCC) and the 10th session of the Conference of the Parties serving as the Meeting of the Parties to the Kyoto Protocol (CMP 10). Three subsidiary bodies will also convene: the Subsidiary Body for Implementation (SBI), the Subsidiary Body for Scientific and Technological Advice (SBSTA), and the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP). The conference will consider agenda items related, inter alia , to finance, mitigation, adaptation and technology. The COP will also hear a report from the ADP concerning progress made during the third year of its mandate to develop 'a protocol, another legal instrument or an agreed outcome with legal force under the Convention applicable to all Parties' by 2015 to enter into force no later than 2020."
+---
+
+# A BRIEF HISTORY OF THE UNFCCC AND KYOTO PROTOCOL
+
+The international political response to climate change began with the adoption of the UNFCCC in 1992, which sets out a framework for action aimed at stabilizing atmospheric concentrations of greenhouse gases (GHGs) to avoid 'dangerous anthropogenic interference with the climate system'. The Convention, which entered into force on 21 March 1994, now has 196 parties. In December 1997, delegates to the third session of the COP in Kyoto, Japan, agreed to a protocol to the UNFCCC that committed industrialized countries, and countries in transition to a market economy, to achieve emission reduction targets. These countries, known as Annex I parties under the UNFCCC, agreed to reduce their overall emissions of six GHGs by an average of 5% below 1990 levels in 2008-2012 (first commitment period), with specific targets varying from country to country. The Kyoto Protocol entered into force on 16 February 2005, and now has 192 parties.
+
+## LONG-TERM NEGOTIATIONS IN 2005-2009:
+
+Convening in Montreal, Canada, in 2005, the first session of the CMP (CMP1) decided to establish the Ad Hoc Working Group on Annex I Parties' Further Commitments under the Kyoto Protocol (AWG-KP) in accordance with Protocol Article 3.9, which mandated consideration of Annex I parties' further commitments at least seven years before the end of the first commitment period. In December 2007, COP 13 and CMP 3 in Bali, Indonesia, resulted in agreement on the Bali Roadmap on long-term issues. COP 13 adopted the Bali Action Plan (BAP) and established the Ad Hoc Working Group on Long-term Cooperative Action under the Convention (AWG-LCA), with a mandate to focus on mitigation, adaptation, finance, technology and a shared vision for long-term cooperative action. Negotiations on Annex I parties' further commitments continued under the AWG-KP. The deadline for concluding the two-track negotiations was 2009 in Copenhagen.
+
+## COPENHAGEN:
+
+The UN Climate Change Conference in Copenhagen, Denmark, took place in December 2009. The high-profile event was marked by disputes over transparency and process. Late in the evening of 18 December, these talks resulted in a political agreement, the 'Copenhagen Accord', which was then presented to the COP plenary for adoption. After 13 hours of debate, delegates ultimately agreed to 'take note' of the Copenhagen Accord and to extend the mandates of the negotiating groups until COP 16 and CMP 6 in 2010. In 2010, over 140 countries indicated support for the Accord. More than 80 countries also provided information on their national mitigation targets or actions.
+
+## CANCUN:
+
+The UN Climate Change Conference in Cancun, Mexico, took place in December 2010, where parties finalized the Cancun Agreements and extended the mandates of the two AWGs for another year. Under the Convention track, Decision 1/CP.16 recognized the need for deep cuts in global emissions in order to limit the global average temperature rise to 2 °C above pre-industrial levels. Parties agreed to consider strengthening the global long-term goal during a review by 2015, including in relation to a proposed 1.5 °C target. Decision 1/CP.16 also addressed other aspects of mitigation, such as: measuring, reporting and verification (MRV); and reducing emissions from deforestation and forest degradation in developing countries, and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks (REDD+). The Cancun Agreements also established several new institutions and processes, including the Cancun Adaptation Framework, the Adaptation Committee and the Technology Mechanism, which includes the Technology Executive Committee and the Climate Technology Centre and Network. The Green Climate Fund (GCF) was created and designated as an operating entity of the Convention's financial mechanism. Under the Protocol track, the CMP urged Annex I parties to raise the level of ambition towards achieving aggregate emission reductions, and adopted Decision 2/CMP.6 on land use, land-use change and forestry.
+
+## DURBAN:
+
+The UN Climate Change Conference in Durban, South Africa, took place from 28 November to 11 December 2011. The Durban outcomes covered a wide range of topics, notably the agreement to establish a second commitment period under the Kyoto Protocol, a decision on long-term cooperative action under the Convention and agreement on the operationalization of the GCF. Parties also agreed to launch the ADP with a mandate 'to develop a protocol, another legal instrument or an agreed outcome with legal force under the Convention applicable to all Parties'. The ADP is scheduled to complete these negotiations by 2015, with the new instrument entering into force no later than 2020. In addition, the ADP was mandated to explore actions to close the pre-2020 ambition gap in relation to the 2 °C target.
+
+## DOHA:
+
+The UN Climate Change Conference in Doha, Qatar, took place in November and December 2012. The conference resulted in a package of decisions, referred to as the 'Doha Climate Gateway'. These include amendments to the Kyoto Protocol to establish its second commitment period and agreement to terminate the AWG-KP's work in Doha. The parties also agreed to terminate the AWG-LCA. A number of issues requiring further consideration were transferred to the SBI and SBSTA, such as: the 2013-2015 Review of the global goal; developed and developing country mitigation; the Kyoto Protocol's flexibility mechanisms; national adaptation plans; MRV; market and non-market mechanisms; and REDD+.
+
+## WARSAW:
+
+The Warsaw Climate Change Conference took place from 11-23 November 2013, in Warsaw, Poland. Negotiations focused on the implementation of agreements reached at previous meetings, including pursuing the work of the ADP. The meeting adopted an ADP decision that invites parties to initiate or intensify domestic preparations for their intended nationally determined contributions (INDCs), and resolves to accelerate the full implementation of the BAP and pre-2020 ambition. Parties also adopted a decision establishing the Warsaw International Mechanism on Loss and Damage, and the Warsaw REDD+ Framework a series of seven decisions on REDD+ finance, institutional arrangements and methodological issues.
+
+# INTERSESSIONAL HIGHLIGHTS
+
+## ADP 2-4:
+
+The fourth meeting of ADP 2 (ADP 2-4) took place from 10-14 March 2014, in Bonn, Germany. Under workstream 1 (2015 agreement), the meeting convened in open-ended consultations on agenda item 3, which addressed: adaptation; INDCs; finance, technology and capacity building (means of implementation); ambition and equity; mitigation; transparency of action and support; and other issues related to elements. An in-session workshop addressed domestic preparations for INDCs. Under workstream 2 (pre-2020 ambition), technical expert meetings (TEMs) on renewable energy and energy efficiency convened.
+
+## BONN INTERSESSIONAL MEETINGS:
+
+The Bonn Climate Change Conference took place in Bonn, Germany, from 4-15 June 2014, and included the 40th sessions of the SBI and SBSTA, and the fifth meeting of the ADP 2 (ADP 2-5). During the meeting, parties advanced negotiations on the ADP and prepared draft decisions to be submitted to the COP and CMP in Lima. Ministers participated in two high-level events, a High-Level Ministerial Roundtable under the Kyoto Protocol, which aimed to assess implementation of the Protocol and provide ministers with an opportunity to increase their countries' quantified emission limitation and reduction commitments (QELRCs), and a High-Level Ministerial Dialogue on the Durban Platform for Enhanced Action aimed to raise pre-2020 ambition and provide momentum for negotiations on the 2015 agreement.
+
+## ADP 2-6:
+
+The sixth meeting of ADP 2 (ADP 2-6) took place in Bonn, Germany, from 20-25 October 2014. Under workstream 1, delegates continued to elaborate the elements of a draft negotiating text, which will serve as the foundation for the final construction of the 2015 agreement, and considered a 'non-paper' on parties' views and proposals on the elements for a draft negotiating text. The ADP also worked on a draft decision that captures the types of information countries will provide when they communicate their INDCs and how these contributions will potentially be considered. Under workstream 2, TEMs focused on: opportunities for action on non-CO2 GHGs; carbon capture, use and storage; and follow-up to TEMs on unlocking mitigation opportunities through energy efficiency, renewable energy, urban environment and land use improvements in the pre-2020 period. Countries also addressed a draft decision on pre-2020 ambition.
+
+## IPCC-40:
+
+The 40th session of the Intergovernmental Panel on Climate Change (IPCC-40) met from 27 October to 1 November 2014, in Copenhagen, Denmark, to consider and finalize the Synthesis Report and Summary for Policymakers that complete the IPCC's Fifth Assessment Report (AR5). More than 800 authors and review editors from 85 countries participated in the preparation of AR5 over the past six years, and concluded that: climate change is unequivocal and unprecedented; substantial and sustained emission reductions are needed to avoid the most serious consequences; and the more we delay action, the more costly it will be and the more we will have to rely on untested technologies in the future.
+
+## MONTREAL PROTOCOL MOP26:
+
+The tenth meeting of the Conference of the Parties to the Vienna Convention for the Protection of the Ozone Layer (COP10) and the twenty-sixth Meeting of the Parties to the Montreal Protocol on Substances that Deplete the Ozone Layer (MOP26) met from 17-21 November 2014, in Paris, France. MOP26 and COP10 successfully addressed a number of issues, including the replenishment of the Multilateral Fund. However, parties were unable to come to an agreement on whether or not the Protocol should be amended to deal with hydrofluorocarbons, which were introduced by the Protocol as ozone-depleting substance alternatives, but later revealed to have a high global warming potential.

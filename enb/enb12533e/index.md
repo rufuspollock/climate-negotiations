@@ -1,0 +1,55 @@
+---
+title: "DURBAN HIGHLIGHTS"
+id: enb12533e
+url: http://www.iisd.ca/vol12/enb12533e
+date: 
+abstract: "On Thursday, ministers and their representatives addressed delegates in a joint high-level segment held throughout the day. In the morning, a President s informal stocktaking plenary was held. Contact groups and informal consultations met throughout the day and into the night on several issues, including Annex I emissions reductions, mitigation, Kyoto Protocol amendments, the CDM, the Adaptation Fund, finance, response measures, sectoral approaches, market and non-market approaches, national adaptation plans, technology transfer and capacity building. South Africa also held ministerial and technical Indaba sessions to try to bring positions closer among parties."
+---
+
+#     COP 17 & CMP 7 JOINT HIGH-LEVEL SEGMENT
+
+The high-level segment continued throughout the afternoon with statements by ministers and their representatives. A webcast of all statements is available online at: http://unfccc4.meta-fusion.com/kongresse/cop17/templ/ovw_live.php?id_kongressmain=201
+
+# INFORMAL STOCKTAKING PLENARY
+
+SBSTA Chair Muyungi said compromise had been reached on CCS in the CDM, while project-specific reserve and transboundary issues were referred to SBSTA 36. He also said consultations will continue on revisions of reporting guidelines for Annex I countries. SBI Chair Owen-Jones explained that he expected a strong, clean text would be forwarded to the COP on response measures.
+
+AWG-KP Chair Macey said that while political guidance will be needed to reach conclusions, further technical progress can be made. He said the AWG-KP is continuing work on finding a consensus on a second commitment period, while AWG-LCA Chair Reifsnyder urged parties to finish discussions and provide a clear picture by Friday morning.
+
+COP President Nkoana-Mashabane announced ministerial appointments on key issues to further narrow the list of options. These assignments are: Minister Onkokame Mokaila of Botswana for shared vision; Minister Tim Groser of New Zealand for developed and developing country mitigation; Minister María Fernanda Espinosa of Ecuador for the Adaptation Committee; Special Envoy Claudia Salerno of Venezuela for response measures; Minister Nathalie Kosciusko-Morizet of France on sectoral approaches; and Minister Chris Huhne of the UK for Review.
+
+# CONTACT GROUPS AND INFORMAL CONSULTATIONS
+
+Contact groups and informal consultations met throughout the day, with most continuing into the night to finalize draft decisions for consideration by plenary.
+
+CAPACITY BUILDING (AWG-LCA): JAPAN reported on informal informals, noting the group worked late into the night on Wednesday. He said the discussions were not contentious and that remaining outstanding issues relate to whether to call an in-session body a forum or an in-depth discussion and whether it should meet annually or biennially. However, the G-77/CHINA expressed concern with lack of clarity on institutional arrangements and absence of reference to performance indicators. Facilitator Goote noted time had run out for further discussions, and said he would forward the text to the AWG-LCA Chair with the recommendation that a forum for in-depth discussion meet annually, at least initially.
+
+SPIN-OFF GROUP ON AMENDMENTS/NUMBERS (AWG-KP): Parties reviewed three options envisaged to replace the table in Annex B of the Protocol (FCCC/KP/AWG/2011/CRP.2/Rev.1), as well as two proposed by parties, and debated how to reflect the numbers of developed country parties that do not wish to adhere to a second commitment period. Countries requested clarification on how a revised Annex B will relate to the flexibility mechanisms, and in particular whether all countries under Annex B will have access to flexibility mechanisms for the second commitment period. Regarding carryover of AAUs, one developed country party indicated she could accept the proposal of a developing country party, except for wording on how to distribute benefits and share of proceeds. The proponent responded that they were flexible on the percentage of proceeds and on the use of units for domestic compliance. Another proposal by a small island state was also discussed, with one developed country saying taxation for carryover AAUs was still too high, and noting her country counted on keeping saved AAUs for a second commitment period. She warned that a decision largely reducing expected carryover may become a reason to not adhere to a second commitment period.
+
+ADAPTATION FUND (CMP) : Parties finalized discussions on the review of the Adaptation Fund Board and review of the Adaptation Fund. One party welcomed the organization of two regional workshops for Asia and the Pacific planned for the first half of 2012. Draft decisions were forwarded to the CMP.
+
+#     REDD+ (AWG-LCA)
+
+Delegates discussed options on REDD+ finance sources. One option considers, inter alia : that appropriate market-based approaches be developed and that the SBSTA could develop modalities and procedures. Another states that results-based finance provided to developing countries may come from a wide variety of sources, including alternative sources, considering appropriate market and non-market based approaches created under the Convention. Some developing countries supported a footnote explaining that appropriate means exclusion of offsetting mechanisms and/or carbon markets. Another country strongly supported developing non-market based approaches and multiple functions of forests. Parties also addressed outstanding text in the preamble and on the way forward.
+
+DEVELOPED COUNTRY MITIGATION (AWG-LCA): Parties discussed whether options have been adequately reflected. On possible elements of a draft decision for adopting IAR, they considered options for, inter alia : comparability; the timeframe for the adoption of modalities and procedures; frequency of IAR; and compliance. Parties also discussed the objectives of IAR, technical review and multilateral assessment. On IAR, one developed country said that emerging developing countries should be subject to a similar regime, and that IAR is for emission reduction targets and not for reporting on the provision of support to developing countries.
+
+DEVELOPING COUNTRY MITIGATION (AWG-LCA): Parties discussed revised draft text on possible elements for adoption of modalities and guidelines for the ICA. Options were considered for: objectives; scope and process; and outcome of the ICA.
+
+GREEN CLIMATE FUND (COP): Parties were able to agree on paragraphs regarding the host country selection process and a process for conferring legal personality on the fund. On the interim secretariat, parties agreed that it shall be fully accountable to the Board and shall function under its guidance and authority. Parties also agreed that the head of the secretariat should have experience working with developing countries. On the host of the interim secretariat, three options were presented: the UNFCCC Secretariat; the GEF Secretariat; and the UN Office in Geneva.
+
+NATIONAL ADAPTATION PLANS (COP) : Many countries stressed that GEF guidance should be clear, simple and operationally feasible to ensure the support that LDCs require will be provided. COLOMBIA said the GEF would need to work through agencies with on-the-ground experience and through one or two core programmes to ensure funds can be accessed quickly. Many developing countries supported inviting UNDP and UNEP to consider establishing support programmes, with the US opposed to singling out the two organizations. The G-77/CHINA stressed the need to ensure the provision of long-term support for the process.
+
+TECHNOLOGY TRANSFER (AWG-LCA) : Parties identified outstanding work remaining on, inter alia : the selection process and call for proposals; agreement on the role of IPR; potential linkages between the Technology Mechanism and the financial mechanism, and other institutions under the Convention.
+
+CDM (CMP): Parties continued reviewing the draft decision paragraph by paragraph, with many clauses remaining in brackets, including on: the CDM beyond the first commitment period, the first review of the CDM modalities and procedures, guidelines on stakeholder consultation and improvements on the assessment of additionality. Parties agreed, inter alia , on: the launch of a CDM policy dialogue by the CDM Executive Board, operational entities carrying out sector-specific validation, voluntary measures and programmes of action.
+
+RESPONSE MEASURES (COP) : Parties convened to share views on a draft decision distributed by the SB Chairs. NEW ZEALAND stressed the need to define the boundaries of a work plan and possible forum and, with CANADA and the US, said the current text is unbalanced. Argentina, for the G77/CHINA, said her group has made compromises and urged others to follow suit. On future revisions to the text, SAUDI ARABIA requested retaining the current text as a separate option, with NEW ZEALAND saying that it reserves the right to have a third option if parties go down the option route.
+
+# IN THE CORRIDORS
+
+Amid cautions that Durban cannot send a message to do nothing, delegates were pushed to agree on final details of a possible Durban package. At an Indaba meeting to discuss technical issues, delegates reiterated their preferences in terms of legal options for an outcome and one delegate lamented the lack of compromise from key parties citing a reggae song everybody wants to go to heaven but nobody wants to die. Another delegate said discussions regarding the launch of another negotiating process seemed like a replay of Bali. With the final day of negotiations approaching, ministers had a flurry of bilateral meetings, followed by a political Indaba that went into the twilight hours. Perhaps learning a lesson from the leaked texts of Copenhagen, the COP President posted iterations of the big picture papers for all to see. While in the corridors, some observers scanned updates of the Indaba papers, including options for the future of the Kyoto Protocol; some delegates despaired that complexity was taking over and an ambitious outcome would be impossible in the time remaining, with one invoking dark memories of the final hours of Copenhagen and another simply stating we won t be sleeping tonight. On a brighter note, one visibly relieved delegate said we are finally making progress on the GCF, while an observer mustered that unless sources of funding are clearly identified, it will be more of the same. Yet, another reflected that commitments on mitigation, and not the GCF, remain the core test for the political will of parties.
+
+## ENB SUMMARY AND ANALYSIS :
+
+The Earth Negotiations Bulletin summary and analysis of the Durban Climate Change Conference will be available on Monday, 12 December 2011 online at: http://www.iisd.ca/climate/cop17/

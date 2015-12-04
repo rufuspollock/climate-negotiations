@@ -1,0 +1,67 @@
+---
+title: "HIGHLIGHTS FROM THE MEETINGS OF THE FCCC SUBSIDIARY BODIES, 20 OCTOBER 1997"
+id: enb1257e
+url: http://www.iisd.ca/vol12/enb1257e
+date: 1997-10-20
+abstract: "The seventh sessions of the Subsidiary Body for Implementa- tion (SBI-7) and the Subsidiary Body for Scientific and  Technical Advice (SBSTA-7) of the UN Framework Convention  on Climate Change (FCCC) opened on 20 October 1997 in Bonn,  Germany. Delegates to SBI-7 considered national  communications from non-Annex I Parties and activities  implemented jointly (AIJ). SBSTA-7 discussed AIJ,  methodological issues, national communications from non- Annex I Parties and the roster of experts."
+---
+
+# SUBSIDIARY BODY FOR IMPLEMENTATION
+
+SBI Vice-Chair José Romero (Switzerland), on behalf of SBI  Chair Mohamed Ould El Ghaouth (Mauritania), reminded dele- gates of the short time allocated for SBI negotiations at  this session and urged them to conclude negotiations in a  timely manner.
+
+FCCC Executive Secretary Michael Zammit-Cutajar noted the  need for support in developing initial national  communications and strengthening national capacities. He  noted that projects for national communications can 'prime  the pump' for future investments as much as pilot projects  for lowering emissions. Regarding the FCCC core budget, he  noted that a number of contributions were still unpaid and  additional contributions to the trust fund for  participation were needed.
+
+Delegates accepted the Vice-Chair's proposal to establish a  joint SBSTA/SBI drafting group on the financial mechanism,  to be chaired by John Ashe (Antigua and Barbuda). A contact  group on a consultation mechanism for NGOs may be  established later.
+
+The Secretariat summarized a progress report (FCCC/SBI/  1997/INF.3) including an update on preparation of initial  non-Annex I national communications. Nine Parties have  reported no activities on communications, and no  information is available from 15. The conclusions included  recommendations for, inter alia: accelerated submissions;  reference by Parties to COP guidelines; appropriate  institutional mechanisms; GEF procedural streamlining;  provision for reproduction and dissemination of reports; a  coordinated strategy for the transfer and development of  technologies; and regional workshops.
+
+The Chair noted that Parties would also consider input from  the GEF and the process for considering non-Annex I  communications. On the latter, he invited the US and  MALAYSIA to chair a reconvened informal meeting to  consider, inter alia, submissions by the EU and Uzbekistan  (FCCC/SBI/1997/MISC.8). The EU said that reviews of  communications have built confidence and helped in  developing second national communications. BRAZIL reported  the conclusions of a recent workshop to share Latin Amer- ican experiences in developing national communications.  Participants there highlighted, inter alia, problems with  developing methodologies and the need for financial  support.
+
+SENEGAL hosted an African regional workshop that brought  together more than 100 participants. The US commended the  Secretariat's progress report, but cautioned that  consideration of some of its recommendations should follow  submissions by a broader sample of non-Annex I countries.  MEXICO announced plans for a regional workshop on  preparation of national communications in Central America.  JAPAN said it was willing to cooperate with developing  countries preparing national communications and noted its  recent contributions. ZIMBABWE called for assistance to the  African region in making digital information available.
+
+MALAYSIA encouraged the Secretariat to continue its role in  coordinating regional activity and suggested that the COP  provide guidance to the GEF. CANADA underlined the  importance of capacity building, supported more expeditious  financial provision by the GEF and noted the importance of  an in-depth review of communications in the context of  Article 4.1 commitments. JAMAICA supported a GEF-sponsored  regional workshop for CARICOM countries in November. The  DEMOCRATIC REPUBLIC OF CONGO announced receipt of funds for  the preparation of its national communication, to be  submitted by October 1998.
+
+On activities implemented jointly (AIJ), the Vice Chair  said Diego Malpede (Argentina) would chair a working group  to prepare recommendations for both SBI and SBSTA. The US  said delegates could recognize that the pilot phase is  still underway but agree that Parties can take credit from  AIJ toward post-2000 commitments, congruent with decisions  on methodological issues. The issue is not whether, but how  credit is taken. He suggested adopting uniform reporting  procedures and work programmes on methodological issues,  financing and additionality of financing. LUXEMBOURG, on  behalf of the EU, said AIJ reporting needs further  elaboration. Project baselines, scenarios and emissions  reductions should be more detailed. CANADA noted progress  in methodologies and benefits gained. She said the lack of  incentives for private sector engagement and of methodology  for transparency and consistency slowed some areas. She  looked forward to a US draft decision, especially on  credits and methodologies.
+
+BRAZIL said given parallel negotiations on QELROs and  associated methodological issues, the review must be done,  but he will not support any COP-3 decision that prejudges  methodology work necessary to determine emissions  reductions. MALAYSIA said experience so far is not  comprehensive enough to make an assessment of AIJ. Only  after reporting, baselines and methodologies are addressed  can delegates consider credits. CHINA said developing  country participation, GHG abatement results and investment  in AIJ have been limited, so it is premature for COP-3 to  make a decision based on 'scanty' estimates and analysis.  Partners should come forward with secure funding. SAUDI  ARABIA said the issue of credits is at the heart of AIJ and  should be ruled out for COP-3. ZIMBABWE noted only one  project among 53 African governments and said it is  premature to talk about trading or credits.
+
+Regarding technology transfer, the Vice-Chair suggested  establishing a contact group. The US said it would submit a  draft decision requesting that the Secretariat continue  disseminating information and expand the technology needs  survey, that SBSTA examine government and private sector  activities, and that Parties encourage market policies  promoting trade and investment in climate-friendly  technologies and improved reporting on technical needs and  arrangements.
+
+# SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNICAL ADVICE
+
+Chair Tibor Faragó (Hungary) urged delegations to make  progress on outstanding issues as this would be the last  SBSTA session before COP-3. He proposed the establishment  of informal contact groups on AIJ and technology transfer.  He also invited delegations to focus on the methodological  issues related to inventories by Annex I Parties to the  Convention as contained in the annex to document  FCCC/SBI/1997/19.
+
+On methodological issues, LUXEMBOURG, on behalf of the EU,  noted that the Secretariat had listed various issues that  needed further study but indicated that the list might not  be complete. He said other issues were likely to come up in  the near future, based on new Annex I national  communications and experiences gained during in-depth  reviews. He stated that FCCC guidelines for Annex I  national communications would need regular maintenance and  improvement if necessary. INDIA raised points on the types  of gases that ought to be included in inventories and  criteria to ensure transparency and comparability.
+
+The US called for recommendations on how to use the IPCC  methods and noted that Global Warming Potentials (GWPs),  although not perfect, may be a suitable method for drawing  comparisons. He asked the Secretariat to prepare a list of  issues that could be addressed by SBSTA in preparing rules.  MALAYSIA questioned the scientific basis for using GWPs and  said they do not provide clear GHG inventories. The  MARSHALL ISLANDS called for the inclusion of developing  country experts on the review teams. The Chair asked the  Secretariat to prepare a text for consideration by the  joint SBI/SBSTA contact group on this issue.
+
+On national communications from non-Annex I Parties, the  Chair noted that discussion on the provision of support to  developing country Parties had taken place at the SBI and  any conclusions would be reported to SBSTA.
+
+On AIJ, the Secretariat introduced a synthesis report on  the AIJ pilot phase (FCCC/SBSTA/1997/12, Add.1, Corr. 1,  and Corr.2). He said there had been 67 AIJ projects during  the pilot phase and further project offers were contained  in document FCCC/SBSTA/ 1997/Inf.3.
+
+The G-77/CHINA noted the limited spread of projects and  suggested that COP-3 would be unable to reach any  conclusions on the exercise. He supported a joint contact  group. The EU called for clearer guidance regarding the  definition of a number of information items required during  the AIJ pilot phase. Among these items were: the  compatibility with and supportiveness of national economic  development, socio-economic and environmental priorities;  emissions reduction calculations; project lifetime;  uncertainty in establishing estimates and measurements;  baseline definition; and estimating mitigation costs. He  also called for new project types. ZIMBABWE called for a  good distribution of AIJ projects by sector, country and  region and supported the view that current information  could not provide the basis for decisions at COP-3. INDIA  noted the absence of precise information on the amount of  GHG reductions and costs and agreed that current data were  insufficient to reach a judgment on the pilot phase.  MALAYSIA expressed concern that problems still prevail in  terms of assessing the pilot phase and underlined the  importance of methodological issues. UZBEKISTAN called for  the inclusion of a methodological item on determining  socio-economic benefits and noted that there were almost no  AIJ projects in his region. SRI LANKA noted the poor  response to his country's attempts to find a partner in a  developed country for AIJ, despite the interest of several  parties in his country. VENEZUELA supported the idea of a  working group to discuss the issue.
+
+The US said the COP should endorse the progress made on  AIJ. He said delegates should bear in mind that many  projects have yet to receive host country approval, even  those meeting all criteria and not seeking credit. He urged  SBSTA to address the complexity of the guidelines, and said  it should prioritize requirements rather than wait until  all complexities are resolved. MAURITIUS said AIJ must be  given the chance to expand to more countries and sectors.
+
+SWITZERLAND supported the development of a priority work  programme that could be endorsed by the COP. She noted that  the lack of capacity in the potential host countries  creates a barrier for AIJ's progress. CENTRAL AFRICAN  REPUBLIC supported deferring decisions on AIJ to later  meetings when projects are more equitably distributed.  UNEP/IEA reported on a recent AIJ workshop held in Paris,  in which participants noted, inter alia, that AIJ should  not be seen only within the context of GHG abatement, but  also as part of global development.
+
+BHUTAN said despite its very low capacity, it hopes  delegates keep an open mind regarding methodological  issues. BURKINA FASO said COP-3 should extend the process.  NEPAL said AIJ could be a small but indispensable tool for  countries' national programmes and technical training. The  RUSSIAN FEDERATION said COP-3 could take the necessary  decisions on issues such as new forms of AIJ. COSTA RICA  said the possibility of credits would bring a desirable  number and type of new projects.
+
+The Secretariat introduced the document, FCCC/SBSTA/1997/  11, on the experience with the roster or experts. Delegates  will discuss the issue at SBSTA's next meeting.
+
+# PRESS CONFERENCE
+
+At a press conference held in the afternoon, FCCC Executive  Secretary Michael Zammit-Cutajar underscored the crucial  role of AGBM-8 in the success of the Kyoto meeting. He  expected that the 'Chairman's text' produced by AGBM Chair  Raúl Estrada-Oyuela would serve as a basis for negotiating  an instrument containing legally binding targets and  timetables for emissions reductions. He pointed out that  the text intended to cover all the proposals currently on  the table, including a recent proposal by Japan.
+
+The Executive Secretary noted that the Japanese proposal  was based on a differentiated approach and attempted to  bring on board as many Parties as possible. He expressed  his hope that the US would table a proposal at this  session. Responding to a question on the implications of  failure at Kyoto, the Secretary said that lack of progress  would hinder attempts to address climate change in the  future. He defined failure as the inability of developed  countries to take the lead in addressing global warming.
+
+#     THINGS TO LOOK FOR TODAY
+
+### SBI
+
+SBI will meet at 10:00 am in the Grosser Saal.
+
+### SBSTA
+
+SBSTA will meet at 3:00 pm in the Grosser Saal.

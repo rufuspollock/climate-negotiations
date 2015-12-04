@@ -1,0 +1,67 @@
+---
+title: "HIGHLIGHTS FROM THE MEETINGS OF THE FCCC SUBSIDARY BODIES, 28 OCTOBER 1997"
+id: enb1263e
+url: http://www.iisd.ca/vol12/enb1263e
+date: 1997-10-28
+abstract: "Delegates to the eighth session of the Ad Hoc Group on the  Berlin Mandate (AGBM-8) convened non-group sessions on  quantified emission limitation and reduction objectives  (QELROs), Article 4.1 and policies and measures (P&Ms). The  seventh session of the Subsidiary Body for Scientific and  Technical Advice (SBSTA-7) held its final session in the  afternoon and considered draft conclusions and decisions  on: methodological issues; the roster of experts;  activities implemented jointly (AIJ); cooperation with  relevant international organizations; and transfer of  technologies. An NGO briefing was held in the morning."
+---
+
+# NGO BRIEFING
+
+The Chair of the second QELROs non-group, Bo Kjellén  (Sweden), said consultations are underway on a paragraph  covering countries with economies in transition. Text on  banking and borrowing will be taken up again once the other  QELROs group has addressed emission budgets. He said he had  made proposals regarding trading and joint implementation.  He said the non-group hopes to polish texts and narrow  differences so that various elements are easier to fit into  a final agreement in Kyoto.
+
+Luiz Gylvan Meira Filho (Brazil), Chair of the first QELROs  non-group, said intense activity continued in contact  groups. One is considering differentiation, attempting to  define criteria rather than a formula, which seems to be  'impossible.' On the question of using single-year net  emissions or a multi-year budget approach, he said the non- group is still struggling with how to deal with different  gases. Discussions continue on using greenhouse warming  potentials (GWPs) or other mechanisms to account  collectively for a number of gases.
+
+Chair Estrada summarized the activity of the non-group on  existing commitments under FCCC Article 4.1. He said the  negotiations appeared to be in a 'time machine' with  delegations repeating positions he had heard 30 years ago,  the result: 'totally nonsense.' Developing countries are  asking for a specific reference to technology transfer;  developed countries are trying to avoid one. In paragraphs  relating to financial support, he said delegates were  developing a formula to specify which actions warrant full  and which incremental support.
+
+On institutions and mechanisms, non-group Chair Takao  Shibata (Japan) said the group agreed that the Convention  COP should serve as the protocol Meeting of Parties (MOP),  and that other Convention bodies should serve a protocol.  Specific functions of the MOP are to be decided. Delegates  are also discussing whether to use the number of  ratifications and/or a percentage of total emissions as the  basis for ratification.
+
+Chair Estrada said the non-group on policies & measures  (P&Ms) was discussing three main proposals: the EU prefers  mandatory P&Ms with consultations to coordinate their  implementation; a number of JUSCANZ countries opposes  mandatory P&Ms but may retain the ability to select some;  and the G-77/CHINA is seeking criteria to ensure developing  countries are not negatively affected by P&Ms.
+
+# SBSTA
+
+SBSTA considered draft conclusions on development and  transfer of technology. Under the draft conclusions, SBSTA:  noted the need to accelerate the process of providing  information; urged Parties to provide comments on (an)  international centre(s) and requested SBI to consider  funding options; and agreed to consider at its ninth  session additions or amendments to the revised guidelines  for national communications. Under the draft decision for  COP-3, the COP would, inter alia, request the Secretariat  to consult with the GEF and other international  organizations on their ability to support the work of (an)  international centre(s); requests SBI to consider options  for funding (an) international centre(s); and urge Parties  to create an enabling environment to further stimulate  private sector investment in and transfer of technology.
+
+On methodological issues, delegates considered a draft  decision for adoption by COP-3 (FCCC/SBSTA/1997/L.5) under  which SBSTA reaffirms that Parties should use the Revised  1996 Guidelines for National GHG inventories of the IPCC.  The draft decision also contained bracketed text  reaffirming that Global Warming Potentials (GWPs) used by  Parties should be those provided by the IPCC. The US  proposed removing the brackets. CHINA said the paragraph  should be deleted. The Chair noted that the AGBM Chair had  requested advice from SBSTA and the substance of the answer  is independent of any AGBM outcome. MALAYSIA and the EU  said a decision on this should await the outcome of the  protocol negotiations. Delegates agreed that no decision  should be produced.
+
+Delegates agreed to draft conclusions under which SBSTA  requested the Secretariat to prepare a report that  identifies the gaps faced by developing countries in  research and development on methodologies related to GHG  inventories. Following an amendment from the EU, SBSTA  further concluded that adjustments, in particular  temperature adjustments, to national GHG inventory and  projections may be a useful tool for assessing the  effectiveness of P&Ms.
+
+SBSTA adopted draft conclusions on the roster of experts.  In utilizing the roster, SBSTA requested the Secreteriat,  inter alia, to take into account certain criteria such as  experts' relevant professional backgrounds and ensuring  balanced regional representation. SBSTA also concluded  that, to date, 'there had not been sufficient experience to  fully evaluate the utility of the roster or its use by the  Secretariat' and requested further evaluation of the roster  for COP-5. SBSTA forwarded the synthesis report on  activities implemented jointly (AIJ) to the COP, and  recommended a draft decision to be adopted by COP-3  reaffirming decision 5/CP.1 on AIJ under the pilot phase,  taking note of the synthesis report and adopting the  uniform reporting format contained in document  FCCC/SBSTA/1997/INF.3.
+
+On cooperation with international organizations, WMO  commented on two documents requested by SBSTA: a report by  the Conference on the World Climate Change Research Program  and a document that explores ways to further enhance  coordination between the work of international  organizations. The International Civil Aviation  Organization (ICAO) reported on its increased cooperation  with the COP, particularly through research on the impact  of emissions from aircraft engines on climate change.
+
+UNEP introduced a report on the Technology and Economic  Assessments Under the Montreal Protocol: Terms of Reference  and Future Work. Parties commented on Item 3  (FCCC/SBSTA/1997/8; MISC.6). MONGOLIA and MALAYSIA noted  the need to enhance the global observation network.  AUSTRALIA said the maintenance of long-term homogenous  records are essential for global and regional climate  monitoring. He urged the GEF to consider further funding of  GHG monitoring. CANADA encouraged Parties to sustain and  expand the Global Atmosphere Watch network. The EU  recommended that the WMO work with the IPCC and others on  network design, harmonization and analysis. He urged the  GEF to support developing countries' observation capacity.  The US said the WMO's concerns about the long term  sustainability of the global monitoring system must be  taken seriously. UGANDA said the lack of data on Africa was  a serious concern. He called on the GEF to assist.
+
+The Chair introduced his draft conclusions on cooperation  with relevant international organizations. The US suggested  a reference to SBSTA's desire to give further consideration  to observation systems at its next session. On Party  submissions for the IPCC TAR, the EU noted that some  Parties have already submitted policy-relevant questions.  On a list of key issues to be addressed in the TAR (Annex  I), CHINA added general suggestions on improving  assessments by narrowing the range of uncertainties and  indicating the limitations of results, and on the advisory  nature of reports. On cooperation with the IPCC (Annex II),  the UK introduced amendments to specify the nature of the  IPCC's prompt responses to SBSTA's requests for input. On  observational networks (Annex III), the US introduced two  new paragraphs: one recognizing concerns raised by relevant  intergovernmental organizations regarding the long term  sustainability of observation systems, and a second,  incorporating a Canadian addition, requesting that the  SBSTA, through the Secretariat and the IPCC, consider the  adequacy of observing systems and report to COP-4. With  suggestions from UGANDA and MALAYSIA, CANADA introduced a  replacement paragraph calling on Parties to provide the  necessary resources to reverse the decline in systematic  observation networks and support observational system  development. SBSTA adopted the report of its seventh  session contained in document FCCC/SBSTA/1997/CRP.4.
+
+QELROs-1 NON-GROUP One coutry presented a regional group's 'bubble concept'  for group members to share a collective emissions target. A  number of Parties objected to the proposal. One Party  supported it. No agreement was reached.
+
+QELROs-2 NON-GROUP The non-group chaired by Bo Kjellén (Sweden) discussed  articles on voluntary commitments, national communications,  inventories and monitoring of commitments. A group of  countries proposed deleting a paragraph on voluntary  commitments indicating that these were a disguised form of  new commitments for developing countries. A regional group  stated that voluntary commitments allowed countries to  participate according to their own capacities and  capabilities. A comment to the effect that the article  would allow developed non-Annex I Parties to take on  commitments, met objection by three countries. A sub- paragraph became the chapeau of the article on national  communications. Two delegations insisted on the deletion of  a sub-paragraph concerning the coordination of expert teams  by the Secretariat. A delegation proposed text to the  effect that the review process shall provide a thorough and  comprehensive assessment of a Party's implementation of the  Convention. A proposal by a regional group for 'all  Parties' to be subject to a periodic review of their  commitments, was opposed by one delegation. Some delegates  noted some improvement in the general tone of the  discussions.
+
+# ARTICLE 4.1 NON-GROUP
+
+The non-group completed its last meeting at AGBM-8 with  agreement only on a chapeau. The non-group Chair presented  revised texts for most paragraphs in the AGBM Chair's draft  article. Delegates discussion focused on three. In a  paragraph on national communications, delegates discussed a  number of bracketed alternatives. In the paragraph on  national programmes, a group of countries said the  paragraph represents new commitments for developing  countries. A Party suggested that the text fleshes out  existing commitments. One Party objected to text on  removing obstacles to the 'limitation' of anthropogenic  emissions. Another proposed 'limitation or abatement in the  increase' of emissions.
+
+In a paragraph on reporting, a Party proposed moving the  text into a separate protocol article. A group of countries  said the paragraph should be divided to define Annex-I and  non-Annex-I responsibilities. A regional group objected to  separating developed and developing country  responsibilities in the paragraph. On the draft article on  finance, the non-group discussed various proposals for  bracketed portions of the text without reaching consensus.
+
+# POLICIES AND MEASURES NON-GROUP
+
+The non-group on policies and measures (P&Ms) discussed a  paragraph suggesting that P&Ms should 'minimize adverse  effects on other Parties.' A group of countries suggested  amending the text to 'avoid' effects and to list specific  climate, economic and trade effects. The group also  proposed a reference to a compensation fund for affected  developing countries, or a cross-reference to such a fund  in the article on QELROs. Other delegations objected to the  proposals. A regional group proposed that the P&Ms  implementation 'take account of' adverse effects. The group  also suggested substituting Convention language for a  sentence describing actions the MOP might take. The meeting  paused so a small group could seek consensus language.
+
+# IN THE CORRIDORS
+
+As negotiations in two non-groups wrapped up their work  with few agreements, the only statement gaining consensus  in the corridors appeared to be 'send it to Kyoto.'  Delegates and observers have reported that negotiators in  Bonn are unable, unwilling or without political authority  to push major issues beyond the steady and longstanding  disagreements that have characterized AGBM-8. Some  delegates said it was difficult to expect more at this  stage, but others worried that some new strategy was needed  to salvage greater progress before the climate negotiations  leave town.
+
+# THINGS TO LOOK FOR TODAY
+
+### NGO Briefing
+
+An NGO briefing will be held at 9:30 am.
+
+### SBI
+
+SBI will meet at 10:00 am.
+
+###     Non-groups:
+
+Consult the journal for non-group meetings.

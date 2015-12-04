@@ -1,0 +1,53 @@
+---
+title: "SB 24 & AWG HIGHLIGHTS"
+id: enb12304e
+url: http://www.iisd.ca/vol12/enb12304e
+date: 
+abstract: "Contact groups and informal consultations continued throughout Wednesday on issues such as adaptation, the Adaptation Fund, arrangements for intergovernmental meetings, the Brazilian proposal, capacity building, the Mauritius Strategy on small island developing States, privileges and immunities, and technology transfer. In addition, the AWG convened for informal discussions throughout the day and into the night."
+---
+
+# AD HOC WORKING GROUP
+
+The AWG met informally in the afternoon, evening and late into the night. A revised Chair's non-paper was distributed in the afternoon, as well as a G-77/China text on organization of work for AWG 2. The Chair's non-paper included text elaborating on the focus of the AWG, the need for information and analysis, emission trends, experience gained from implementation of the Protocol and mechanisms, future sessions and a list of indicative relevant topics. The G-77/China text proposed two components to AWG's future work: the first involving a presentation by the IPCC Chair and party presentations on assessment of implementation of climate policies, emission trends and how to determine overall reduction commitments; and the second involving a determination of commitments, duration of the second commitment period, and ensuring that there is no gap between periods. Discussions focused on, inter alia , the content and format of the workshop at COP/MOP 2, and the status of the Chair's revised non-paper. In the evening, draft AWG conclusions on planning of future work were introduced. As of 11:50 pm, some progress was reported on keeping the list of topics during small group talks, and informal consultations in a larger group were expected to resume.
+
+# CONTACT GROUPS
+
+## ADAPTATION FUND:
+
+Delegates met informally in the morning and afternoon, and in a contact group meeting in the evening. Informal consultations included discussions on a G-77/China proposal on information that should be requested from institutions that could manage the Fund. This proposal subsequently became a miscellaneous document. Delegates also considered how to refer to those institutions in draft SBI conclusions and discussed the entire proposed SBI conclusions. In the evening contact group meeting, delegates continued discussions on how to refer to potential fund-managing institutions in the draft decision. Several developing countries supported referring to some specific institutions while also leaving the invitation open to other organizations. However, CANADA, NORWAY and the EU preferred wording that does not refer to specific organizations. After several proposals for compromise wording proved unsuccessful, delegates agreed to consider a Co-Chairs proposal noting that the SBI invited institutions, including, among others, those contained in the annex without prejudice to any institution The contact group will reconvene on Thursday afternoon.
+
+## ARRANGEMENTS FOR INTERGOVERNMENTAL MEETINGS:
+
+On Wednesday morning, the contact group completed its work after making a number of revisions to the Chairs draft text. This text was agreed following discussions on the work schedule and organization of COP 12, COP/MOP 2 and future meetings, and on the status of observer parties to the Protocol. On COP 12 and COP/MOP 2, discussions focused on the time that should be set for ending evening sessions. The UMBRELLA GROUP and the G-77/CHINA preferred setting an earlier time, whereas the EU preferred a more flexible arrangement that would allow for later meetings. The final formulation recommends that meetings should normally end at 6:00 pm but could extend until 9:00 pm under exceptional circumstances. On future sessions, the EU objected to text proposed by the US recommending that meetings be held during normal United Nations Headquarters working hours (which are 10:00 am to 6:00 pm, with a two hour break for lunch). The US also proposed a recommendation that sessions of the subsidiary bodies and workshops be scheduled so as to minimize weekend travel wherever possible. This was opposed by the EU and some developing countries, while AUSTRALIA, NORWAY and JAPAN favored its inclusion. The final compromise resulted in deletion of the text on weekend travel, and amendment of the sentence on UN hours, so that the SBI encouraged(r ather than recommended ) that Convention and Protocol meetings should be held during UN Headquarters ' hours whenever possible. Regarding the status of UNFCCC parties at Protocol informal consultations, delegates were unable to agree on a precise legal position on their status, with views expressed by the EU on one side and AUSTRALIA and the US on the other. Parties agreed not to refer specifically to this issue in the text, noting orally that informal talks under the Protocol should be guided by the concept of inclusiveness, with one party suggesting that the issue could be revisited if problems arise. Delegates also discussed text reviewing the arrangement/organization of COP 11 and COP/MOP 1, including whether these events should serve as a framework for future sessions. The US pointed out that such arrangements should be reviewed periodically, and delegates agreed that COP/MOP 1 and COP 11 should serve as the framework for COP/MOP 2 and COP 12, but that later sessions should not be referenced.
+
+CAPACITY BUILDING (CONVENTION):The contact group considered the Co-Chairs ' proposal for SBI conclusions on monitoring capacity-building activities. Many delegates noted that while they were close to agreeing on a compilation and synthesis report on capacity-building activities, other issues required more negotiation. Parties then discussed whether and when to organize an in-session workshop, disagreeing on South Africa's proposal that countries that are not able to participate in the workshop could make submissions to it. With delegates unable to reach an agreement during their last scheduled contact group meeting at SBI 24, they agreed to continue informal consultations on Wednesday evening. However, further talks did not prove successful, and delegates agreed to forward the issue to the SBI Chair, recommending that it be sent to SBI 25 for consideration.
+
+CAPACITY BUILDING (PROTOCOL): With no agreement reached during informal consultations on Wednesday afternoon and evening, delegates agreed to forward the issue to the SBI Chair, recommending that it be sent to SBI 25 for consideration.
+
+## HFC-23:
+
+The contact group considering HFC-23 under the CDM met to adopt draft conclusions agreed previously during informal consultations. The conclusions note that COP/MOP recognized that issuing CERs for the destruction of HFC-23 at new HCFC-22 facilities could lead to increases in the production of HCFC-22 and/or HFC-23 and that the CDM should not lead to such increases. The conclusions also call for parties, admitted observers and relevant intergovernmental organizations to submit their views on elaborating practical solutions by 30 July 2006, with a view to preparing draft recommendations with guidance to the CDM Executive Board for adoption by COP/MOP 2.
+
+## PRIVILEGES AND IMMUNITIES:
+
+Delegates met informally and in a contact group in the morning to consider draft SBI conclusions and a decision. The discussions included whether the conclusions should focus on immunities only, or both privileges and immunities. Agreement was reached on draft conclusions and the contact group concluded its work. Delegates also agreed that the draft decision text will remain as a non-paper to inform further discussions at SB 25.
+
+## TECHNOLOGY TRANSFER:
+
+Delegates met in informal consultations throughout the day to discuss the Co-Chairs draft conclusions. Discussions focused on issues such as whether the SBSTA should be endorsing or recognizing EGTT recommendations, technology needs assessments and their implementation on a sectoral basis, barriers to technology transfer, financing and technical support, and consideration of future actions at SBSTA 25. A contact group met at night and agreed on draft conclusions, concluding the group work.
+
+## INFORMAL CONSULTATIONS ADAPTATION:
+
+Informal consultations on the five-year programme of work continued throughout the day. By the evening, parties reported fundamental differences on the ways they perceived their mandate, noting that while some sought to define precisely the activities covered under the five-year programme of work, others had focused mainly on establishing the modalities of the initial activities to be undertaken in the first two years. Consultations will continue on Thursday.
+
+## BRAZILIAN PROPOSAL:
+
+Informal consultations on the scientific and methodological aspects of the proposal by Brazil concluded on Wednesday morning. Parties agreed to SBSTA draft conclusions noting that SBSTA expects the scientific work on this issue to be completed by the third quarter of 2007. The SBSTA further: requests the Secretariat to organize an in-session special side event at SBSTA 27; invites parties submissions by 7 March 2008, which will be compiled into a miscellaneous document for consideration by SBSTA 28; and agrees to complete the consideration of this item once the scientific work is sufficiently completed and indicates that it would like to be able to do this at SBSTA 28 or soon thereafter.
+
+## MAURITIUS STRATEGY ON SIDS:
+
+During informal consultations, SBSTA Chair Kumarsingh presented text including a proposal to invite party submissions on how the Mauritius Strategy could be mainstreamed into the agenda of the subsidiary bodies. However, two parties continued to oppose including consideration of this agenda item and did not agree to support the Chair proposal as a way forward. The Chair will now consider whether to hold this agenda item in abeyance.
+
+# IN THE CORRIDORS
+
+With many contact groups and informal consultations finalizing work on issues ranging from technology transfer to privileges and immunities, some delegates seemed pleased at the progress made on Wednesday. However, others were not so sure. Some were heard suggesting that the early conclusion of work was not necessarily a positive sign. Most of the work is just being pushed forward to Nairobi, claimed one veteran negotiator. Another observed that not all participants attention seemed to be on the negotiations. The nicest thing about this meeting has been catching up with old friends and colleagues. Oh, and the ducklings living in the upstairs courtyard of the Maritim Hotel are soooo cute! gushed one delegate.

@@ -1,0 +1,67 @@
+---
+title: "HIGHLIGHTS FROM THE MEETINGS OF THE FCCC SUBSIDIARY BODIES, 22 OCTOBER 1997"
+id: enb1259e
+url: http://www.iisd.ca/vol12/enb1259e
+date: 1997-10-22
+abstract: "The Ad Hoc Group on the Berlin Mandate opened its eighth  session (AGBM-8) on 22 October 1997. Delegates gave opening  statements in a morning Plenary session. In the afternoon,  a 'non-group' meeting discussed policies and measures. The  Chair of the AGBM held a briefing for observers. The  Subsidiary Body for Implementation (SBI) discussed  arrangements for intergovernmental meetings, administrative  and financial matters, mechanisms for NGO consultations and  legal matters."
+---
+
+# AD HOC GROUP ON THE BERLIN MANDATE
+
+AGBM Chair Raúl Estrada-Oyuela (Argentina) reminded  delegates that only ten days remained for AGBM to complete  its work. He said a 'good dose' of willingness to enter  into commitments is required, but noted he was not  convinced that it is there in all sectors. He said it is  not easy to understand statements that ignore the  leadership commitment and real contributions made by  developing countries. He noted that the proposals forming  the basis for AGBM's work are well known. This last session  should not repeat them, but make progress in the  negotiations.
+
+FCCC Executive Secretary Michael Zammit-Cutajar stated that  equity should remain central to the Kyoto result. The  globalizing world economy produces not only wealth but also  inequality and social stress. Climate change adds a new  factor, weighing most heavily on the poor and vulnerable  that are least able to adapt. He noted that technological  responses are emerging, but asked whether they would be  available to developing countries without deliberate  measures to stimulate technology transfer. He said  leadership does not mean sacrifice but making the effort to  change direction and take advantage of new opportunities.
+
+TANZANIA, on behalf of the G-77/CHINA, said Parties stood  at a defining moment and members of his group were ready to  assume their differentiated responsibilities, in particular  the existing commitments as set out in Article 4.1. He  noted that there are to be no new commitments for non-Annex  I countries and recalled his group's concerns about  adoption of policies and measures that take into account  impacts on developing countries. He identified unfulfilled  commitments under Articles 4.3, 4.4, 4.5 and 4.7 as the  stumbling blocks to advancement of existing developing  country commitments. He tabled the G-77/CHINA position on  QELROS, which proposes: time frames of 2005, 2010 and 2020;  periodic review by the COP; return to 1990 emission levels  by 2000; reductions in CO2, CH4, and N20 by at least 7.5%  of 1990 levels by 2005, by 15% by 2010, and by an  additional 20% by 2020, thus leading to a total reduction  of 35%; efforts to phase-out other GHGs including HFCs,  PFCs and SF6; achievement of QELROs by domestic measures;  minimizing adverse impacts on developing country Parties  and a Compensation Fund; and a Clean Development Fund to  assist developing country Parties, funded by contributions  from Annex I Parties found to be in non-compliance with  their QELROs.
+
+JAPAN called on all Parties to exercise flexibility in  their QELROs proposals and elaborated on the Japanese  proposal intended to accommodate divergent views. The  proposal is for a 5% base reduction rate for deciding a  target for each Annex I country, with target periods of  2008 and 2012. It covers CO2, CH4, and N20. Individual  country targets are differentiated by emissions per GDP,  emissions per capita and population growth. It also  provides for emissions trading and joint implementation. On  developing countries, the proposal provides for enhanced  efforts through the elaboration of existing commitments and  urges more advanced developing countries to assume  voluntary commitments. A new process to further discuss  commitments by all Parties is proposed for after Kyoto.
+
+LUXEMBOURG, on behalf of the EU, indicated concerns about  references in the Chair's negotiating text to policies and  measures and to advancing the implementation of Article 4.1  and associated financial provisions. He called for the  inclusion of a Convention objective expressed in  quantitative terms and a well-defined compliance regime. He  noted that the European Commission had produced a document  to demonstrate the feasibility of the EU reduction targets  of at least 7.5% and 15% below 1990 levels by 2005 and 2010  respectively. The UK, also on behalf of the EU, outlined an  explanation of the EU's joint or 'bubble' approach to  emissions obligations and offered text for insertion into  the Chair's negotiating draft. He explained that, for  example, the EU-proposed target of 15% reductions would be  met jointly, with member states opting for joint  implementation. These states would inform the Secretariat  of the terms of the agreement for joint implementation five  years before the expiry of the target period, with each  declaring its share of the overall contribution to  reductions. There would also be provision for amending or  rescinding a burden-sharing agreement and for dealing with  any failure to meet the total target.
+
+SAMOA, for AOSIS, supported the G77/China statement and  said all proposals remain on the table, including that of  AOSIS. He expressed deep disappointment with Japan's  proposals, whose flexibility would render the small effort  non-legally binding. He supported the draft article that  would permit Parties to assume commitments voluntarily.
+
+ZIMBABWE, for the African group, emphasized per capita  emissions as a basis of attaining equity. She called a 15%  target by 2010 a minimum and demanded leadership from Annex  I Parties, especially Japan and the US. She said a penalty  clause for failure to meet targets is a necessary  incentive. Reliable, predictable means are necessary to  advance implementation of existing commitments under  Article 4.1.
+
+The US was extremely disappointed that the Chair's text  omits its proposal that all Parties adopt quantified GHG  emissions obligations by 2005. Kyoto should be part of a  rolling series of negotiations and will be unacceptable if  it fails to initiate a process that recognizes the global  nature of the problem.
+
+The RUSSIAN FEDERATION stressed maintaining the balance of  interests, including those of countries with economies in  transition. ICELAND pointed to differentiated emission  objectives and the need to take account of differences in  starting points, economies and resource bases.
+
+Chair Estrada introduced a consolidated negotiating text  (FCCC/AGBM/1997/7) that he hoped would serve as a basis for  the completion of a protocol or another legal instrument.  He said he had prepared the document based on proposals  that had been submitted, AGBM-7 outcomes and informal  consultations with Parties. He indicated that he had sought  to streamline and address key aspects of current proposals.  He noted that very few brackets appeared in the text,  mainly on single-year targets or budget periods, flat  rates, emissions credits and two alternatives on the  governing body of the Protocol. He said Annexes I and II  had been used as categories for countries.
+
+The Business and Industry NGOs said that business and  industry play a unique role in the implementation of FCCC.  He said many business and industry members supported a  variety of voluntary national and international initiatives  that play a key role in limiting GHG emissions.
+
+The US and European Business Councils for a Sustainable  Energy Future said that the benefits of sustainable energy  innovation are not only relevant to climate protection but  also to employment, environmental and social policies,  geopolitical stability and the national interest of fuel  importing countries.
+
+The Climate Action Network said that Japan, and possibly  the US, were making proposals for targets and timetables  that were ten-year extensions of existing commitments. She  indicated that Japan's proposal only succeeds in lowering  the overall level of negotiations by shifting the balance  in favor of the weakest positions. The International  Council for Local Environmental Initiatives (ICLEI)  reported on examples of four successful local action plans  to reduce GHG emissions and said participating cities were  proceeding at a more rapid rate than their national  governments.
+
+# NON-GROUP ON POLICIES AND MEASURES
+
+The non-group on policies and measures (P&Ms) met in the  afternoon and discussed the article on P&Ms contained in  the consolidated negotiating text (FCCC/AGBM/1997/7).  Proposed amendments put forth by two groups of countries  met objection. One group proposed deleting a reference to  an article on voluntary commitments by non-Annex I  countries and suggested that P&Ms be adopted and  implemented by Parties to achieve their QELROs. The other  group, inter alia, proposed that a process be instituted to  develop guidelines for modalities of coordination and  cooperation for the implementation of P&Ms. It also  proposed developing common performance indicators for P&Ms.
+
+There was a discussion on whether the implementation of  P&Ms should take into account, mitigate or avoid adverse  effects, as well as on the types of effects and who is  affected. A contact group was established to discuss the  aim of implementing policies and measures: whether to  'assist' or to 'achieve' fulfillment of commitments.
+
+# OBSERVER BRIEFING
+
+Chair Estrada briefed AGBM observers on his efforts to  produce a negotiating text and highlighted difficult areas.  He said the primary motivation was to shorten the text. He  noted that the article on P&Ms presents a middle ground. He  said the EU sought to include P&Ms, but JUSCANZ countries  resisted. He noted that the article that includes QELROs  still lacks definitions and that he tried to leave all  options open. He highlighted other topics, such as  emissions trading, joint implementation, and the Meeting of  the Parties One article, developed from AOSIS and Swiss proposals,  would allow non-Annex I countries to assume commitments  voluntarily. In the article on continuing to advance the  implementation of FCCC Article 4.1 (existing commitments),  Estrada underscored language stating that no new  commitments shall be introduced for non-Annex I countries.  In addition to Annexes, the protocol foresees an  attachment, which would allow flexibility in case of  differentiated commitments. On entry into force, his text  requires combined criteria; both the number of Parties and  the amount of carbon emissions.
+
+# SUBSIDIARY BODY FOR IMPLEMENTATION
+
+On arrangements for meetings, FCCC Executive Secretary  Michael Zammit-Cutajar said details were still pending for  COP-3. Noting the organization of COP-3 (FCCC/CP/1997/1),  he said a general debate had been added to the proposed  agenda. With no offers to host COP-4 the meeting will be in  Bonn in November 1998. CHINA and the G-77/CHINA objected to  consideration of the review of adequacy of Articles 4.2(a)  and (b) on the COP-3 agenda, recommending that the review  occur at COP-4. The EU and US said it was appropriate that  COP-3 consider the review. The G-77/CHINA proposed an  agenda for the high-level segment and objected to a  reference to the 'so-called post-Kyoto process' with the  aim of including non-Annex I Parties in commitments. The  PHILIPPINES asked for clarification of the post-Kyoto  process in the SBI report. Zammit-Cutajar said that the  post-Kyoto process also denoted implementation of any  protocol. The Vice-Chair suggested raising the issues at  Sunday's Bureau meeting.
+
+On administrative and financial matters (FCCC/SBI/1997/18, /INF.2 and /INF.7), the Secretariat noted cash flow  problems arising from late contributions and a US$500,000  shortfall in the COP-3 participation fund. The Vice-Chair  will prepare a draft decision urging contributions and  covering other matters.
+
+Delegates agreed to continue discussing mechanisms for  consultation with NGOs after the Vice-Chair said a decision  was not possible. The EU proposed giving NGOs seats and  speaking opportunities as in SBSTA. MALAYSIA said  delegations did not have time for multiple forums.  SWITZERLAND suggested expanding the list of constituencies  in line with Agenda 21's major groups, and did not support  a business consultative mechanism. CANADA proposed  permitting more than one NGO intervention when appropriate.
+
+# IN THE CORRIDORS
+
+Suspense over the long-awaited position of the US ended  with President Clinton's announcement a few hours after  Wednesday's meeting. He called for stabilization of GHG  emissions at 1990 levels by 2008-2012 and reducing  emissions after that. He also called upon developing  countries to participate in a meaningful way. Even prior to  the announcement, delegates could be heard criticizing  elements of the proposal in the corridors. Some were later  heard criticizing it on the air on CNN.
+
+# THINGS TO LOOK FOR TODAY
+
+### Non-groups
+
+Non-groups on QELROs and Article 4.1 will meet  at 10:00 am. The non-group on institutions and mechanisms  is expected to meet at 3:00 pm.
+
+### SBSTA
+
+SBSTA is scheduled to hold a joint meeting with the  IPCC at 3:00 pm.

@@ -1,0 +1,63 @@
+---
+title: "UNFCCC COP-10 HIGHLIGHTS"
+id: enb12254e
+url: http://www.iisd.ca/vol12/enb12254e
+date: 
+abstract: "Delegates to COP-10 met in a SBSTA plenary and numerous contact  groups on Friday. In the morning, SBSTA discussed scientific,  technical and socioeconomic aspects of mitigation of climate  change (mitigation) and a COP contact group took up the report of  the CDM Executive Board (EB). SBI contact groups met throughout  the day on: capacity building; the UNFCCC's financial mechanism;  UNFCCC Article 6 (education, training and public awareness); and  matters relating to least developed countries (LDCs). SBSTA  contact groups addressed: good practice guidance (GPG) on LULUCF  activities under the Protocol, harvested wood products (HWP) and  other issues relating to LULUCF; mitigation; and technology  transfer."
+---
+
+# SBSTA
+
+### MITIGATION
+
+Chair Benrageb summarized the key points of the  workshop held on 9 December on practical opportunities and  solutions for mitigation that contribute to sustainable  development and technology innovation, deployment and diffusion.  Many Parties welcomed the workshop and supported holding  additional in-session workshops at future SBSTA sessions. CHINA,  for the G-77/China, underscored that mitigation should not result  in adverse impacts on development, and urged Parties to establish  an international mechanism for technology innovation, development  and transfer. JAPAN, with many others, stressed the relevance of  energy efficiency. He said international cooperation on this area  should be carried out on a sectoral basis. The EU emphasized that  mitigation is key, and noted that significant greenhouse gas  reductions are technically and economically feasible.
+
+UGANDA said mitigation can be considered a form of adaptation,  since mitigating early avoids future costs of adaptation.  AUSTRALIA highlighted the complimentary roles of adaptation and  mitigation. TUVALU stressed that, while adaptation is necessary,  particularly in SIDS, a commitment to mitigation is equally  important. Acknowledging the merits of information exchange, he  said that the workshop demonstrated that sufficient information  and technology are available for action.
+
+Numerous Parties provided suggestions for presentation topics at  subsequent SBSTA workshops. SAUDI ARABIA said the workshop should  address socioeconomic aspects of mitigation. AOSIS stressed the  importance of renewable energy technologies. CHILE said that  transport had not been sufficiently addressed during the workshop.  CANADA proposed addressing sectoral case studies. Chair Benrageb  established a contact group on the issue co-chaired by Kok Seng  Yap (Malaysia) and Toshiyuki Sakamoto (Japan).
+
+# CONTACT GROUPS
+
+### CAPACITY BUILDING
+
+Co-Chair Roger Cornforth requested views from  delegates on a proposal submitted by the G-77/China to serve as a  basis for negotiations on the draft decision on capacity building.  The EU, with JAPAN, US, AUSTRALIA and CANADA, stated that they  could not accept the text, which he said does not correspond to  the agreed terms of reference. JAPAN stressed that the review of  the capacity-building frameworks should address neither future  activities nor guidance to the GEF. The G-77/CHINA emphasized that  the proposed text represents the view of over 100 developing  countries that are affected by the decision. The EU, supported by  the US, CANADA and JAPAN, and opposed by the G-77/CHINA, proposed  that the Co-Chairs prepare a new draft decision text. Co-Chair  Cornforth invited new proposals for the draft decision from other  Parties. Discussions continued informally on capacity building in  countries with economies in transition.
+
+### FINANCIAL MECHANISM
+
+Co-Chair Rawleston Moore distributed a draft  decision text on the Special Climate Change Fund (SCCF). Delegates  addressed funding needs for developing countries to meet their  commitments under the UNFCCC in the context of decision 5/CP.8  (review of the financial mechanism). SOUTH AFRICA, for the  G-77/China, said that, in accordance with the Memorandum of  Understanding between the GEF and the COP, the COP and GEF should  jointly determine the necessary funding. The US, CANADA, EU and  JAPAN supported maintaining the existing modalities for  identifying funding. On the process for the review of the  financial mechanism, the EU, CANADA, JAPAN and US said that  existing guidelines should be used. The G-77/CHINA requested time  for further consultations. Co-Chair Moore invited Parties to hold  informal consultations on these issues.
+
+### CDM EB
+
+Delegates discussed the draft decision text on the CDM EB.  Regarding the implications of CDM project activities for achieving  objectives of other environmental agreements, the EU suggested  highlighting in particular the Montreal Protocol on Substances  that Deplete the Ozone Layer. BRAZIL, opposed by the US, expressed  concern about the costs of facilitating the physical presence of  observers at EB meetings. INDIA recommended preambular text on the  definition of 'additionality.' JAPAN, opposed by CANADA and BRAZIL,  suggested text restraining the EB from holding closed sessions,  and text requesting the EB to develop guidance on, inter alia,  methodologies for energy efficiency and for transport sector CDM  projects. INDIA suggested text on an EB database of approved  methodologies and text on procedures for the amendment of approved  methodologies on the basis of experience gained. He also proposed  noting that the use of 'tools for the demonstration and assessment  of additionality' is not mandatory for project participants, and,  opposed by the EU, recommended text noting, inter alia, that a  number of Parties have expressed concern about the status of the  tools. The EU recommended text requesting the EB to intensify its  efforts to facilitate efficient and transparent decisions by the  EB and its panels.
+
+### UNFCCC ARTICLE 6
+
+Delegates discussed proposed draft conclusions  and a draft decision on the status of implementation of the New  Delhi work programme on Article 6 and ways to enhance its  implementation. On the proposal for a separate Article 6 workshop  on SIDS, delegates agreed to hold a workshop immediately prior to  COP-11. Participants discussed both texts, proposing minor  amendments. They also deliberated on the need to coordinate with  ongoing consultations on the omnibus draft decision containing  guidance to the GEF. Chair Crispin d'Avergne said he will draft  revised texts.
+
+### MITIGATION
+
+Participants proposed topics for future SBSTA  in-session workshops on mitigation. Many Parties reiterated their  statements from the morning SBSTA plenary discussion on the  mitigation workshop from 9 December. CHINA, for the G-77/China,  and supported by others, said the next workshop should focus on  socioeconomic aspects of mitigation. AUSTRALIA said a focus on  socioeconomic issues is acceptable, provided that scientific and  technical issues are not neglected. The EU noted that mitigation  today will reduce adaptation costs tomorrow. AUSTRALIA and the EU  expressed the need to review the outcomes of past workshops.
+
+Many Parties suggested considering costs and benefits, as well as  co-benefits of mitigation options. SAUDI ARABIA and CANADA  proposed considering national circumstances, and NEW ZEALAND  suggested looking at examples of national policies that address  least-cost mitigation approaches. Many delegates said the workshop  should focus on more than one theme and include cross-cutting  issues. CHINA proposed communicating the conclusions to the Expert  Group on Technology Transfer (EGTT). The US, supported by NEW  ZEALAND, recommended involving practitioners. CANADA said it is  too early to negotiate terms of reference for the workshop.  Parties will submit their views and the Co-Chairs will prepare  draft conclusions for further consideration by the contact group.
+
+### LDCS
+
+This contact group discussed matters relating to LDCs.  Noting that the mandate of the LDC Expert Group (LEG) runs through  2005, the EU proposed discussing the LEG's work and the extension  of its mandate at COP-11. TANZANIA, on behalf of LDCs, agreed,  suggesting that the LEG provide guidance on implementation of  national adaptation programmes of action (NAPAs). On guidance to  the GEF on the LDC Fund, LDCs reaffirmed their support for the  principle of full-cost funding, and emphasized the urgency of  adaptation activities. He highlighted difficulties with the  sliding scale proposed by the GEF for co-financing project  activities, and suggested discussing a threshold for full  financing. JAPAN opposed discussing levels of funding until NAPAs  are completed and projects are identified. SWITZERLAND, the EU,  NORWAY and CANADA supported the GEF's co-financing requirements,  saying that projects should not stand in a vacuum and, since  national policies will generally address the most urgent  activities, LDC Fund projects should complement and build on these  efforts. The Co-Chairs will prepare a draft decision for  consideration.
+
+### LULUCF
+
+Co-Chair William Agyemang-Bonsu presented a revised draft  decision text on GPG for LULUCF under Protocol Article 3.3  (afforestation, reforestation and deforestation) and 3.4  (additional activities). The draft stipulates, inter alia, that  GPG will be applied in a manner 'consistent' with the Marrakesh  Accords, and includes a footnote stating that reporting methods  contained in the GPG should ensure that land areas subject to  LULUCF activities under Articles 3.3 and 3.4 can be identified.  Delegates agreed on the revised draft decision without further  amendment.
+
+On factoring out, AUSTRALIA highlighted its proposal calling for a  forward-looking dialogue that takes a broad approach to LULUCF  issues. The US, CANADA, JAPAN, NEW ZEALAND, and NORWAY supported  this comprehensive approach. BRAZIL, with AOSIS, PERU and  ARGENTINA, preferred a focused approach and suggested holding a  technical workshop after COP-10 that would consider submissions by  Parties and possibly biome-specific definitions. The US emphasized  his country's position not to engage in discussions beyond the  first commitment period.
+
+On HWP, BRAZIL, with many others, welcomed the IPCC's work on HWP  and noted that HWP could be better discussed after completion of  the IPCC Guidelines for Greenhouse Gas Inventories in 2006. The  EU, with NORWAY, and opposed by CANADA, requested that SBSTA seek  submissions by Parties on specific national HWP data by 1 August  2005. AUSTRALIA cautioned Parties that inventory reporting should  not be altered, stating that inventories should remain 'pure' and  not be linked to political discussions. The US urged Parties to  report on HWP in a transparent manner. CHINA said double  accounting remains germane and the IPCC should address this  matter. The RUSSIAN FEDERATION said the IPCC should consider all  categories of emissions and removals from HWP for future  accounting. Co-Chair Agyemang-Bonsu will prepare new text on  factoring out and HWP.
+
+### TECHNOLOGY TRANSFER
+
+Participants in this contact group discussed  the Co-Chairs' revised draft conclusions paragraph-by-paragraph.  Discussions focused on: financial implications of the UNFCCC's  technology clearing house (TT:CLEAR); whether to define more  narrowly what areas should be addressed by TT:CLEAR; guidance to  the EGTT on particular technologies; the EGTT's practitioner's  guide; technology transfer in relation to articles other than  Article 4.5 (technology transfer); and the 'push factors' for  technology transfer. Delegates also discussed the fact that some  issues in the EGTT's 2004 work programme have not been completed  or addressed, and deliberated the appropriateness of referring to  the EGTT's 2006 work programme. The Co-Chairs will consult with  the SBI and SBSTA Chairs. Bracketed and unaddressed text will be  considered informally.
+
+# IN THE CORRIDORS
+
+On Friday, the corridors appeared empty as delegates were busy  negotiating finer technical points in a number of contact groups.  While rumors are rife about a proposal by the COP President to  hold an intersessional seminar on the future of the UNFCCC and the  Kyoto Protocol, most delegates have little idea when this will  materialize into a decision of the COP.
+
+Elsewhere, observers commented that the presentation of Brazil and  China's first national communications represents a milestone for  these large developing countries and for the UNFCCC.

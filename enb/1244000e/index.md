@@ -1,0 +1,61 @@
+---
+title: "HIGHLIGHTS FROM THE SIXTH SESSION OF THE AD HOC GROUP ON THE BERLIN MANDATE: THURSDAY, 6 MARCH 1997"
+id: 1244000e
+url: http://www.iisd.ca/vol12/1244000e
+date: 1997-03-06
+abstract: "Delegates to the sixth session of the Ad Hoc Group on the Berlin  Mandate (AGBM-6) considered a draft proposal submitted by the  Chair on policies and measures (P&Ms). They commented on the  organization and form of the proposal, but did not engage in  substantive debate. AGBM also received the report of the non- group on elements related to advancing the implementation of  existing commitments in Article 4.1. The Subsidiary Body for  Implementation (SBI) reconvened to conclude its work on the  review of the financial mechanism."
+---
+
+# STRENGTHENING THE COMMITMENTS IN ARTICLE 4.2 (a) and (b) -  POLICIES AND MEASURES
+
+The Chair presented his draft conclusions on policies and  measures (P&Ms), which represent a streamlined version of Section  II of the Framework Compilation on strengthening the commitments  in Article 4.2 (a) and (b). The draft conclusions contain four  elements: proposals regarding policies and measures; general  proposals; proposals relevant to the nature and mix of policies  and measures; and lists of policies and measures.
+
+Proposals regarding policies and measures,' address: adoption of  coordinated P&Ms; preparation of National Action Plans; national  and regional programmes for climate change mitigation and  protection; and enhancement of sinks and reservoirs. Some of the  entries refer to P&Ms with different priority levels, while  others cite specific items such as removal of coal subsidies,  technology development and transfer and promotion of renewable  energy sources.
+
+General proposals' would support: identification of  environmental and socio-economic impacts of P&Ms; compatibility  between P&Ms and national development programmes; and cost  effective P&Ms. Some entries in 'Proposals relevant to the nature  and mix of policies and measures,' call for individual, rather  than coordinated fulfillment of commitments and protection for  developing countries, especially oil producing states. The  section on 'Lists of policies and measures' begins with a  proposal from the Chair that contains three lists regarding:  policy objectives for all Annex I Parties; possible mechanisms  for implementation of P&Ms and a menu of P&Ms from which Parties  could choose according to their national circumstances. The  Chair's proposal is followed by entries from several countries  including Canada, the EU, Switzerland and Japan. Each entry  contains specific P&Ms.
+
+The Chair said some Parties have submitted 'negative' proposals,  which note that they object to inclusion of specific issues. He  proposed including a general chapeau noting their objections and  said that all ideas retained in the negotiating text do not have  to be included in the Protocol. The proposal also contains  several symbols and letters and the Chair said values would be  attributed to them in future sessions. IRAN inquired about the  possibility of elaborating on each proposal. The Chair noted that  other proposals could be submitted later and asked delegates to   refrain from making substantive statements.
+
+POLAND requested that each reference to a new Annex specify which  Parties will be included. NEW ZEALAND deleted its proposal  calling for compulsory phasing out of fossil fuel subsidies. The  G-77/CHINA noted its intention to submit a proposal on P&Ms. The  EU requested that certain P&Ms from its proposed list also be  noted in the Chair's proposed list of P&Ms. The EU said it would  submit 'List C,' containing P&Ms to be given priority by Parties  listed in Annex X as appropriate to national circumstances. The  RUSSIAN FEDERATION requested retaining its proposals; one which  states that a protocol or another legal instrument should not  change or replace statements of the Convention, including its  principles, and one which states that Parties to the protocol are  guided by principles of the Convention.
+
+Delegates also commented on the Framework Compilation  (FCCC/AGBM/1997/2 and Add.1). The EU deleted several paragraphs  submitted by its member states because these submissions were  superseded by the common EU proposal. The Chair noted that a  section on education, training and public awareness included in  the Addendum would also be included in the negotiating text.
+
+## CONTINUING TO ADVANCE THE IMPLEMENTATION OF EXISTING COMMITMENTS  IN ARTICLE 4.1
+
+Chair Evans King (Trinidad and Tobago) then presented a report  from the non-group on 'Continuing to advance the implementation  of existing commitments in Article 4.1.' He said that the group  held two meetings in which a collegial atmosphere facilitated  frank dialogue. Discussions led to a streamlined text with  narrative sections and allowed proposal authors to see how other  countries viewed their proposals.
+
+The report contains a streamlined text of the section in the  Framework Compilation on continuing to advance the implementation  of existing commitments in Article 4.1. It consists of proposals  requesting all Parties, inter alia, to implement programmes  containing measures to address emissions by sources and removals  by sinks of all gases. It states that the process will reaffirm  and continue to advance implementation of commitments in Article  4.1 and will not introduce any new commitments for non-Annex 1  Parties.
+
+Non-Annex I Parties' implementation of Article 4.1 is contingent  upon developed country Parties fulfilling commitments related to  financial resources and technology transfer for: systematic  observation and research; assessment at the national level of  economic and social impacts of climate change and of various  response strategies; national education and training programmes;  integrated plans for management of coastal zones, water  resources, agriculture, conservation and enhancement of sinks;  data for initial national communications; and formulation,  implementation, publication and updating of programmes containing  measures addressing climate change. The necessary resources for  the implementation of these  activities are to be provided by the  operating entity of the financial mechanism.
+
+The report also contains proposals requesting all Parties to:  regularly update national programmes that include P&Ms for  increasing energy efficiency and improving the transport sector  and industrial process efficiency; provide annual greenhouse gas  inventory data on the basis of IPCC compatible methodologies; and  make available to the COP strategies for mitigating climate  change and national inventories of technology needs. Proposals  included in the report would also require Parties to: foster  bilateral, regional and global cooperation for: development of  national inventories and indicators; development, application and  diffusion of technologies; voluntary participation in AIJ;  participation in the work of international bodies and programmes  on climate change mitigation and adaptation; strengthening of  legal and institutional frameworks; investment in climate- friendly technologies; and reporting on public education and  participation.
+
+Proposals would also require that in-depth reviews of Annex I  Parties' communications include a formal opportunity for other  Parties to ask questions. Parties proposed that non-Annex A or  Annex B Parties would submit to the secretariat: annual  inventories of greenhouse gas emissions; measures implemented;  and quantified effects of actual and potential measures.  Proposals would also require that all Parties establish a process  for reviewing communications.
+
+# ELECTION OF SBSTA OFFICERS
+
+The Chair then announced that progress was made on the election  of officers other than the Chair for SBSTA. MOROCCO, on behalf of  the African group, reported the following nominees: Mr. Soobaraj  Nayroo Sok Appadu (Mauritius) as the Vice-chair of SBSTA and Mr.  Alvaro Jose Rodriguez (Colombia) as Rapporteur. JAMAICA thanked  the African group for this offer and requested that it be  recorded. SBSTA Chair Tibor Farago noted that the official  election would take place during the next SBSTA session.
+
+# SUBSIDIARY BODY FOR IMPLEMENTATION
+
+SBI Vice-Chair Jose Romero (Switzerland) reconvened SBI-5 to  finish its work from the previous week. He presented the draft  conclusions of the informal group on financial and technical  cooperation chaired by Manuel Dengo (Costa Rica). On review of  the financial mechanism, SBI welcomed new information provided at  this session, including the report prepared by the GEF  (FCCC/SBI/1997/2) and two workshops conducted by the GEF. The  conclusions also note that the Parties requested additional time  for review of this information. SBI also noted that information  from other sources, including Parties, would be particularly  important for facilitating a fully informed review. SBI added  that the report of the UNGA Special Session would be of interest  for reviewing the GEF.
+
+SBI agreed to guidelines on the review process, invited Parties  to submit views on the financial mechanism by 15 May  1997 and  requested the secretariat to prepare a compilation and synthesis  report of the submissions for SBI-6. SBI also highlighted the  need for full replenishment of the GEF.
+
+The proposed guidelines note objectives, methodology and criteria  for the review. The objectives will be to review the financial  mechanism and to take appropriate measures regarding its:  conformity with Article 11 of the Convention; conformity with the  COP's guidance; effectiveness in implementing the Convention and  in providing financial resources on a grant or concessional  basis, including the transfer of technology; and effectiveness in  providing resources to developing country Parties under Article  4.3.
+
+Under methodology, the review shall draw upon the following  sources of information: information provided by Parties on their  experiences regarding the financial mechanism; annual reviews by  the COP on how the financial mechanism's activities conform with  the COP's guidance; the GEF's annual report to the COP; reports  from the GEF monitoring and evaluation programme; reports from  the Commission on Sustainable Development and relevant bilateral  and multilateral funding institutions; and relevant information  provided by the other intergovernmental and non-governmental  organizations.
+
+Under criteria, the effectiveness of the financial mechanism will  be assessed taking into account the following: transparency of  decision-making processes; adequacy, predictability and timely  disbursement of funds for activities in developing country  Parties; responsiveness and efficiency of the GEF project cycle  and expedited procedures, including its operational strategy;  amount of resources provided to developing country Parties,  including financing for technical assistance and investment  projects; amount of finance leveraged; and sustainability of  funded projects.
+
+SBI also took note of the information on relevant action by the  Council of the Global Environment Facility contained in document  FCCC/SBI/1997/Misc.3 and requested the secretariat to provide  subsequent SBI sessions with such information as it becomes  available. The Vice-chair thanked delegates for their  participation and adjourned SBI-6
+
+# IN THE CORRIDORS
+
+Score cards for AGBM-6 were mixed going into its final day. Some  participants expressed frustration that new text still contains  some widely divergent views and were underwhelmed at the state of  play two sessions prior to Kyoto. Others noted that the session  simply met their expectations. Although a number of participants  were critical of the specifics within the EU proposal, many  praised the EU for adding momentum to the process. One person  observed that only a few Parties had tabled proposals for QELROS  so far, but noted that the game is not over yet .
+
+# THINGS TO LOOK FOR TODAY
+
+### AGBM
+
+AGBM will meet at 10:00 am in Plenary I to complete its  work.

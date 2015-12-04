@@ -1,0 +1,59 @@
+---
+title: "SB 26 HIGHLIGHTS"
+id: enb12332e
+url: http://www.iisd.ca/vol12/enb12332e
+date: 
+abstract: "On Thursday, the third workshop under the UNFCCC Dialogue drew to a close, with participants meeting in the morning and afternoon to discuss action on adaptation and matters relating to the fourth workshop in August 2007 . An AWG contact group also convened in the evening, and contact groups and informal consultations under the SBSTA and SBI continued on the budget , deforestation , and technology transfer ."
+---
+
+# UNFCCC DIALOGUE
+
+The third workshop under the Dialogue on long-term cooperative action by enhancing implementation of the Convention concluded on Thursday, with discussions focused on addressing action on adaptation and on the fourth workshop, to be held in Vienna in late August.
+
+## ADDRESSING ACTION ON ADAPTATION:
+
+Richard Klein, IPCC, presented on links between adaptation and mitigation, stating that there is no single optimal mix of adaptation and mitigation, and both are intertwined with social and economic development choices. In response to a question by AUSTRIA on the abatement cost of carbon as opposed to its social cost, Klein noted lack of literature and uncertainties due in part to the difficulties of including adaptation in models. INDIA emphasized several concrete adaptation initiatives that it is implementing. SOUTH AFRICA lamented the fragmented nature of adaptation discussions under the UNFCCC, advocated a broader 360 ° approach to adaptation, and suggested a new Adaptation Committee of Experts.
+
+CHINA proposed a protocol or agreement on adaptation, and concrete pilot projects. The EU said adaptation should play a more important role in the future regime.
+
+KENYA highlighted the impact of climate change on desertification and human health issues such as malaria and HIV/AIDS. REPUBLIC OF KOREA called for innovative financing for adaptation, such as a levy on emissions trading. Saint Vincent and the Grenadines, for AOSIS, drew attention to mangroves and coral reefs as a first line of defense for coastal zones, brain drain from SIDS and, with MICRONESIA, insurance issues. Halldor Thorgeirsson, Secretariat, noted a report on financial flows and investments to be presented at the fourth workshop. The UK reported on the UK Climate Impacts Programme and adaptation policy framework. CLIMATE ACTION NETWORK (CAN) suggested suitable levies on the flexible mechanisms and compensatory support from Annex I parties amounting to tens of billions of dollars.
+
+SPAIN and URUGUAY reflected on an Ibero-American initiative on climate change. SPAIN highlighted adaptation as a crucial issue beyond 2012. INDONESIA underscored adaptation technology and the importance of early warning systems.
+
+JAPAN said the Adaptation Fund needs to be operationalized as a matter of urgency, and the UNFCCC should play a coordinating role in light of the complexity of adaptation and multiple actors involved. COOK ISLANDS said vulnerability must be measured in terms of countries' adaptive capacity. The US supported defining the UNFCCC's role on adaptation, in order for parties to be able to move forward. Maldives, for LDCs, said the science and economics of climate change are now clear, leaving only the need for political will. TRADE UNIONS welcomed South Africa's proposal to address adaptation in an integrated manner.
+
+## SUBSTANTIVE AND ORGANIZATIONAL MATTERS RELATING TO THE FOURTH WORKSHOP:
+
+Co-Facilitator Bamsey explained that the Dialogue had now addressed each of the four themes identified in the COP 11 decision separately, and that in Vienna these would be taken up in an integrated manner. He welcomed input from parties and observers, noting that the fourth workshop is the final one, and that the Co-Facilitators would prepare a report on the Dialogue for consideration by COP 13 in Bali.
+
+BRAZIL reflected on the positive exchange of ideas and proposals, but expressed frustration on how to implement these. SOUTH AFRICA identified possible options for moving forward in Bali. As one alternative, he mentioned a new agenda item under the COP, leading to policy level discussions and negotiations. He also mentioned possibilities of continuing the dialogue and creating a platform for enhancing the implementation of commitments. He suggested the possibility of reorganizing and consolidating the COP agenda into five areas: adaptation; mitigation; managing unintended consequences of adaptation and response measures; technology; and implementation.
+
+IRAN emphasized the importance of considering the impact of response measures and economic diversification. The EU stressed the need to be able to build on the ideas identified during the workshops, and INDIA called for a fresh approach. Stressing the need for a post-2012 agreement, CLIMATE ACTION NETWORK urged the establishment of a new ad hoc working group in Bali. Thanking participants for their comments and contributions, Co-Facilitator Bamsey declared the third workshop under the Convention Dialogue closed at 4:50 pm.
+
+# CONTACT GROUPS AND INFORMAL CONSULTATIONS
+
+## AWG:
+
+Following Friends of the Chair consultations during the day, the AWG contact group convened shortly after 7:00 pm to work through a new version of the draft conclusions.
+
+CHINA, opposed by the EU and NORWAY, proposed deleting a bullet point indicating, inter alia , that mitigation efforts during the next few decades will to a large extent determine the long-term temperature increase and climate change impacts. CHINA explained that issues covered during the AWG round table should not be negotiated by the AWG. South Africa, for the G-77/CHINA, proposed adding language on 25-40% greenhouse gas emissions reductions below 1990 levels for Annex I parties. NEW ZEALAND proposed adding sinks to a sentence indicating that mitigation potential can be expanded through flexible mechanisms. Delegates also discussed submissions and a technical paper to be prepared by the Secretariat. On timetables for submissions, JAPAN and others proposed February 2008, while CHILE and others preferred a pre-Bali deadline. The G-77/CHINA suggested language on the resumed AWG 4 in Bali developing a timetable or schedule for the completion of the AWG's work programme.
+
+AWG Chair Charles indicated that informal consultations would continue on Thursday night and Friday morning prior to the plenary scheduled for 3:00 pm Friday.
+
+## BUDGET:
+
+Delegates met in a morning contact group and approved the core programme budget of US$54,031,584, representing a 0.99% increase. The G-77/CHINA proposed deleting a sentence in the draft conclusions on the possibility of using the advice of the UN Advisory Committee on Administrative and Budgetary Questions in preparing budget proposals. The EU raised concerns about this deletion, and Chair Dovland suggested that the EU's objections could be noted in plenary. Debate ensued on language in a paragraph requesting the executive secretary in the course of implementing the programme budget to make every effort to ensure that support to developing countries and other key areas of work in the proposed programme budget is not affected. The EU, supported by the US, suggested deleting ensure that and inserting provide sufficient support. The G-77/CHINA clarified that it had accepted the lower budget proposal on the condition that developing country activities were not implicated. This paragraph was eventually accepted, as amended by the EU, with further minor amendments by the G-77/CHINA. The draft COP decision was also accepted, as presented. Parties reconvened in an afternoon contact group to consider a revised COP/MOP decision reflecting outcomes from consultations on the International Transaction Log (ITL). Helen Plume (New Zealand), who facilitated Friends of the Chair discussions, presented text that was accepted after deletion of a paragraph requesting the Executive Secretary to review the resource requirements of activities for 2009. Parties also approved an annex II table depicting the indicative scale of fees for the ITL for the biennium 2008-2009. The COP/MOP decision was then accepted.
+
+## DEFORESTATION:
+
+Informal consultations and small drafting group meetings took place throughout the day, with parties attempting to remove brackets from the Co-Chairs' draft COP decision. Progress was made on several paragraphs, including one inviting relevant organizations and stakeholders to participate in and/or support efforts to reduce emissions from deforestation, and share the outcome of their efforts by September 2008. Compromise was also reached by referring to efforts instead of activities in some paragraphs, and adding reference to the need to address forest degradation in the preambular section. A proposal to add a paragraph to the draft SBSTA conclusions asking for submissions on the way forward was made at the end of the informal meeting. After further consultations, the paragraph was presented. It invited parties to submit their views on the issues under the Convention related to reducing emissions from deforestation in developing countries: approaches to stimulate action. One developing country opposed reference to the Convention. However, the paragraph was agreed as presented with the addition of related to further steps.
+
+A subsequent contact group agreed to the draft SBSTA conclusions, with the bracketed draft COP decision as an annex.
+
+## TECHNOLOGY TRANSFER:
+
+Informal consultations held in the morning resulted in agreement on the SBSTA conclusions, on the condition that the first annex, which outlines the set of actions for the constituted body, be replaced with previously-agreed text set out in document FCCC/SBSTA/2006/5, Annex II. A paragraph encouraging regional groups to consult with a view to nominating members for the constituted body was accepted, pending final approval at COP 13. A sub-paragraph on the continuance of the pilot project TT:CLEAR, was deleted in view of the limited time left for negotiations. On the draft COP decision, parties made limited progress, approving one preambular paragraph. One developed country also added text in the last operative paragraph elaborating on requests to the GEF. However, this remained in brackets. In the final contact group, Co-Chair Shimada presented the work programme for the EGTT for 2007 as an annex to the draft conclusions and the heavily bracketed draft COP decision. Ghana, for the G-77/CHINA, asked for deletion in the draft decision of the preambular paragraph that recognizes the implementation potential of existing financing sources such as the private financing advisory network, on the grounds that the project is still in its infancy. Other parties agreed to this in the spirit of compromise. The EU said progress had been made in informal consultations to identify what we are aiming at in terms of the constituted body. The SBSTA draft conclusions were adopted, with the bracketed COP decision in an annex.
+
+# IN THE CORRIDORS
+
+Various views were expressed by delegates departing the plenary at the end of the Dialogue workshop on Thursday afternoon. While some were disappointed that the talk had yet to translate into action, others seemed pleased at the relatively open and constructive exchanges. It is hard to say where this is leading us, but something seems to be slowly taking shape, said one observer looking ahead to the fourth and final workshop in Vienna. I suspect parties will be studying some interesting proposals from South Africa and others on possible ways forward, observed another. Meanwhile, as delegates left the AWG contact group on Thursday evening to start Friends of the Chair talks, some were reflecting on the sensitive nature of the discussions. The contact group was fine, but I suspect we will see the difficult, political issues such as ranges and timetables bog things down now we're going into informals, cautioned one.

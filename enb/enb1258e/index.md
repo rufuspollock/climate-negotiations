@@ -1,0 +1,67 @@
+---
+title: "HIGHLIGHTS FROM THE MEETINGS OF THE FCCC SUBSIDIARY BODIES, 21 OCTOBER 1997"
+id: enb1258e
+url: http://www.iisd.ca/vol12/enb1258e
+date: 1997-10-21
+abstract: "Delegates to the seventh session of the Subsidiary Body for  Implementation (SBI-7) discussed communications from  Parties included in Annex I, the review process for the  financial mechanism, proposed amendments to the Convention  and mechanisms for consultations with NGOs. Discussions in  the seventh session of the Subsidiary Body for Scientific  and Technical Advice (SBSTA-7) centered on the roster of  experts, the development and transfer of technologies and  methodological issues."
+---
+
+# SUBSIDIARY BODY FOR IMPLEMENTATION
+
+SBI Vice-Chair José Romero (Switzerland) invited Parties to  continue discussion on the pilot phase of activities  implemented jointly (AIJ) and recalled that a joint  SBSTA/SBI contact group would begin work on this item. SRI  LANKA noted the obstacles posed by the additionality  principle in the AIJ criteria and welcomed a decision by  France to delete the additionality condition from its AIJ  guidelines. He called on other Annex I Parties to do  likewise. INDIA, supported by VENEZUELA, highlighted the  limited scope and geographical distribution of current  projects and the narrow information base available for  assessment. He said a comprehensive review of the pilot  phase would not be possible as envisaged by the COP. He  called for more projects utilizing frontline technologies  and clear data on GHG reductions, cost effectiveness and  contribution to capacity building. AUSTRALIA said Parties  must capture the advantages in cost effectiveness and  environmental gains. He noted the importance of flexibility  in financing AIJ and announced an Australian AIJ initiative  with three developing countries.
+
+On national communications from Parties included in Annex  I, the Secretariat introduced the first compilation and  synthesis (FCCC/SBI/1997/19), an addendum containing tables  of inventories of anthropogenic emissions and removals  (Add.1); and updated information on GHG emissions and  projections (INF.4). The US supported the development of an  electronic reporting program, and requested a report based  on Parties' suggestions for improvements. He noted that  many Parties did not follow the guidelines for reporting  for policies and measures. The EU noted that: some Parties  have had difficulty complying with guidelines; non-Annex I  experts should participate in the review process; and its  communication *is being finalized. The US and the EU noted  the inadequacy of reporting measures for HFCs, SFCs and  SF6.
+
+CHINA stated that reporting should focus on CO2, policies  and measures should take into account different country  situations, and that the report does not adequately address  technology transfer. NEW ZEALAND said Parties should  nominate a range of experts for reviewing reports. With the  EU, she did not support the Secretariat's proposal to  discontinue the distribution of executive summaries drawn  from the communications. UZBEKISTAN said the participation  of national experts from countries with economies in  transition and developing countries could provide good  training. URUGUAY said it had just presented its first  national communication and called for broad FCCC  implementation by Parties that bear the greatest  responsibilities.
+
+On the review of the financial mechanism, the Vice-Chair  informed delegations that a proposed Chair's draft decision  had been prepared and appeared as Appendix III to document  FCCC/SBI/1997/16. The GEF introduced its report to COP-3,  which addressed how it had implemented the guidance  provided by previous COPs. She noted that during the 13  month reporting period, total project funding for climate  change activities exceeded US$570 million, of which the GEF  provided approximately US$155 million in grant financing.  She said the report described activities undertaken by GEF  to improve its performance, including a report on the  application of the concept of full incremental costs.
+
+The EU said that the review of the financial mechanism  should be seen as an ongoing activity of the COP, that EU  members had already pressed for replenishment of GEF and  that it hoped that this meeting would agree to the  designation of GEF as the financial mechanism. TANZANIA, on  behalf of the G-77/CHINA, reiterated its position on the  need to continue dialogue on the designation of GEF as the  FCCC financial mechanism. INDIA pointed to the need to  expand the parameters that are used on the ground by GEF  for the preparation of initial communications. A drafting  group was established to consider the issue further.
+
+Delegates also considered proposed amendments. The Vice- Chair said the question is whether SBI should make  recommendations to the COP regarding the amendments. One  submitted by Pakistan and Azerbaijan would remove Turkey  from Annexes I and II. Pakistan noted Turkey's status as a  medium developed country and its fractional emissions  compared to the Annex I average. TURKEY said it intends to  become a Party, but its burden would be disproportionate  given its economic circumstances.
+
+The EU said all OECD members should adopt commitments under  a protocol. He opposed the amendment, pending a possible  special regime for Turkey, Mexico and Korea or Turkey's  indication of a target it would assume. KOREA distinguished  between the status it shares with Mexico as a non-Annex I  Party and that of Turkey. He said it was another matter  whether Korea would voluntarily assume emissions  reductions. MEXICO said there was no grounds to include  Mexico and Korea in possible protocol annexes. He rejected  attempts to link membership in any organization with  Convention obligations.
+
+JAPAN and CANADA said all cases including Turkey's should  fall within an overall review of Annexes required by  December 1998. The US said a recommendation would be easier  to develop when the post-2000 regime and various national  roles are clear.
+
+An amendment proposed by the EU would permit adoption of a  protocol by 3/4 majority if consensus is absent, and would  apply the protocol provisionally pending its entry into  force. The EU said the amendment allows the majority's  desire for urgent action to be met. He recommended leaving  the amendment on the table for COP-3.
+
+SAUDI ARABIA said the amendment opened the door for many  more and that provisional application violated the  Convention. VENEZUELA said provisional application was  'absurd' and not a proper amendment. The US and CHINA  expressed reservations about provisional application.  AUSTRALIA said he cannot accept a protocol with economic  implications adopted by majority voting. KOREA opposed the  amendment.
+
+An amendment proposed by KUWAIT calls on Annex I Parties to  provide financial resources, including technology transfer,  determined by the COP to meet the full incremental costs of  developing countries' obligations. SAUDI ARABIA said the  amendment is the only way to ensure necessary funds are  forthcoming. The UK, the US, AUSTRALIA, JAPAN and  SWITZERLAND did not accept the amendment. The Vice-Chair  suggested a conclusion noting that proposed amendments be  forwarded to COP-3, recommending that the COP take account  of views expressed during SBI.
+
+# SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNICAL ADVICE
+
+On the roster of experts, the EU noted that Parties should  be requested to review the information on the current  roster and submit additional nominations to the  Secretariat, particularly of experts with backgrounds  related to the economic and financial aspects of transfer  of technology and know-how. With regard to the issue of  Intergovernmental Technical Advisory Panels (ITAPs), she  pointed out that until now SBSTA had not been able to  establish the panels, mainly because of difficulties in  agreeing on a structure. She said the structure should  facilitate a flexible and effective approach and indicated  that a number of small working groups could be established  to deal with SBSTA's scientific and methodological issues.  The G-77/CHINA reiterated that the establishment of ITAPs  is central to SBSTA's work, particularly on technology  transfer and know-how.
+
+Regarding procedural problems encountered in using the  roster, the US stated that they would not be solved by  establishing permanent standing bodies. He said it was  premature to take a decision on ITAPs and encouraged better  use of the roster through increased participation by  experts. On the EU proposal, the US said nothing precluded  putting it into effect right away.
+
+JAPAN and ZIMBABWE agreed that although a useful tool, the  roster lacked geographical balance, perhaps due to  inadequate dissemination of information on the roster in  certain regions. MALAYSIA and INDIA noted an emerging  consensus that some of the issues needed to be studied by  groups of experts.
+
+Delegates considered the activities of Parties included in  Annex II related to transfer of technology  (FCCC/SBSTA/1997/13) and the report on technology  information centers (CRP.3). The US said the report  demonstrates the extensive amount of work underway, but  noted that many countries cannot provide the information  required by the guidelines. The EU called upon non-Annex I  countries to report on their technology needs and, with  MALAYSIA, supported the Secretariat's proposal to revise  the guidelines. SRI LANKA said that SBSTA's actions should  reflect the spirit of language adopted at UNGASS on  transfer of environmentally sound technology.
+
+Delegates also discussed a progress report on the  development and transfer of technologies  (FCCC/SBSTA/1997/10); a technical paper on adaptation  technologies (FCCC/TP/1997/3) and a Climate Technology  Initiative (CTI) survey of information centers.
+
+JAPAN highlighted recent CTI national and regional  workshops and, with the EU, noted the need to make the best  use of existing institutions and programmes. The EU also  stressed the importance of the technological needs survey  for non-Annex I Parties and urged Annex I Parties to  provide information on any related surveys.
+
+Some developing countries described difficulties in  identifying adaptation technology and responding to  questionnaires and surveys. They said it was difficult to  identify their own technological needs and suggested a  study. INDIA described its recent technological advances,  including electronic networking systems and regional  research centers. MALAYSIA said the Secretariat should  promote decision-making tools and develop a technology  information center. The US said technology is key to  solving the climate change threat and creating the right  investment climate to attract financing is critical to  resolving the technology transfer issue.
+
+On methodologies, the Chair noted that the AGBM had  requested recommendations for estimating emissions and  sinks and using Greenhouse Warming Potentials (GWPs). He  suggested that the Secretariat draft a text based on  previous SBSTA decisions and conclusions. The US proposed  focusing on uncertainties in sources and sinks. He said the  consideration of GWPs should include their technical and  legal legitimacy and which time horizon to use.
+
+The Secretariat introduced the document on methodological  issues (FCCC/SBSTA/1997/9) and a technical paper on  temperature adjustments and Parties' actions  (FCCC/TP/1997/2). The EU said individual Parties should  choose whether and how to apply adjustments, but should  describe their approaches in detail. Parties should report  inventories without adjustments. The US said careful  construction of baselines and targets compensates for  temperature and other fluctuations. Multi-year averaging  compensates for short-term fluctuations and requires no  adjustments.
+
+TANZANIA presented a draft decision that calls on SBSTA to  identify gaps developing countries face in research and  development of methodologies, monitoring and assessment  capacity, and observational networks. It calls on SBI to  eliminate the gaps and provide financial and technical  support.
+
+# IN THE CORRIDORS
+
+Great expectations filled the corridors as participants in  Bonn looked forward to an announcement Wednesday by US  President Bill Clinton, signaling his administration's  opening bid in the negotiation of a binding target for the  AGBM. There was some agreement that President Clinton has  already succeeded in installing a significant amount of  political insulation to protect himself from detractors -  whether from the environmental or industry lobbies. The  President has worked hard and fast to create a climate of  opinion in which both the press and the public in the US  have warmed to the idea of an international agreement. At  the same time his administration has successfully dampened  expectations among environmentalists by circulating memos  and options which suggest that anything beyond  stabilization targets will represent a gain - not least by  the President himself. Meanwhile, the G-77/CHINA reached  agreement on its counterbid. The Group is expected to  propose gas-by-gas reduction targets for three periods  beginning in 2010.
+
+# THINGS TO LOOK FOR TODAY
+
+### AGBM
+
+AGBM will meet at 10:00 am in the Grosser Saal
+
+### BRIEFING
+
+The Chair of the AGBM will give a briefing on the  work of AGBM at 2:30 pm in the Grosser Saal.

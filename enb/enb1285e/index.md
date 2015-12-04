@@ -1,0 +1,67 @@
+---
+title: "HIGHLIGHTS FROM THE MEETINGS OF THE FCCC SUBSIDIARY BODIES, 11 JUNE 1998"
+id: enb1285e
+url: http://www.iisd.ca/vol12/enb1285e
+date: 1998-06-11
+abstract: "The Subsidiary Body for Scientific and Technical Advice (SBSTA)  met in the morning and afternoon to adopt decisions. The  Subsidiary Body for Implementation (SBI) met in the afternoon to  consider election of officers, non-Annex I communications,  review of information and arrangements for intergovernmental  meetings. The Ad Hoc Group on Article 13 (AG13) adopted the  report of its meeting. Contact groups continued discussions  throughout the day."
+---
+
+# SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNICAL ADVICE
+
+Chair Kok Kee Chow (Malaysia) introduced draft conclusions on  Annex I communications (FCCC/SBSTA/1998/L.2), which were adopted  without amendment. Regarding draft conclusions on emissions  inventories (FCCC/SBSTA/1998/L.3), the US proposed that SBSTA  encourage the IPCC/OECD/IEA inventories programme to give high  priority to completing its work on uncertainty, as well as to  preparing a report on good practices in inventory management for  consideration by COP-5. Draft conclusions on the roster of  experts (FCCC/SBSTA/1998/L.4) were also adopted.
+
+In the afternoon, the delegates adopted the conclusions on  impacts of a single project on emissions in the commitment  period (FCCC/SBSTA/1998/L.5) and acknowledged the additional  information provided by ICELAND (FCCC/SBSTA/1998/Misc.1/Add.4).  ICELAND specified that separate reporting can only be initiated  in the event that the assigned emissions amounts are exceeded as  a result of single projects.
+
+The delegates also adopted conclusions (FCCC/SBSTA/1998/L.6) on  Methodological Issues: Scientific and Methodological Aspects of  the Proposal by Brazil (FCCC/AGBM/1997/MISC.1/Add.3) that  recognize the outstanding issues raised in the proposal and  welcome the offer by Brazil to host a workshop to develop them  further.
+
+# SUBSIDIARY BODY FOR IMPLEMENTATION
+
+On election of officers other than the Chair, the Chair  announced that regional coordinators had reached no agreement  and therefore proposed keeping the item under consideration for  COP-4.
+
+The PHILIPPINES, for the Asian Group and supported by INDIA,  PAKISTAN, CHINA, SAUDI ARABIA, INDONESIA, KUWAIT AND IRAN,  stated that no agreement had been reached on the election of the  Vice-Chair because the incumbent regional group intended to keep  it for a second term. The Asian Group had asked for a guarantee  to honor the UN principle of geographical rotation after the  next term but this had been rejected. On behalf of the Western  European and Others Group (WEOG), AUSTRIA recalled that the  Rules of Procedure allow a second term and called for making use  of the experience of WEOG's candidate. She expressed WEOG's  willingness to undertake further consultations.
+
+On communications from non-Annex I Parties, contact group Co- Chair Reifsnyder (US) said he hoped for a resolution of some  translation issues by Friday. On review of information and  possible decisions under FCCC Article 4.2(f), VENEZUELA reported  that consultations with Turkey are ongoing. The Chair said the  issue would go to SBI-9. On arrangements for intergovernmental  meetings and COP-4, the Chair noted that his conclusions had  been circulated in a non-paper. JORDAN said his government would  be pleased to host COP-5. The Chair said the date and venue  would be kept open until SBI-9. SAUDI ARABIA sought  clarification on the high-level segment at COP-4. The Chair said  the President of Argentina would attend the COP-4 opening  ceremony on 11 November, and high level speeches would follow on  12 and 13. The US queried SBI recommendations that all heads of  delegations be 'accorded equal treatment' and that the segment  be conducted in a 'transparent manner.' CHINA cited the lessons  of the past. The Chair proposed consultations between the US and  Venezuela. The EU wondered if the recommendations on the high- level segment showed proper respect for and trust in the host  country. VENEZUELA said the organization of the COP was the  responsibility of the FCCC and the recommendations on equal  treatment and transparency were not directed at Argentina. He  noted his pleasure at the UK's interest in the respect due  Argentina. ARGENTINA said she did not believe the paragraph was  offensive to her country. Her country had defended it in the G-77/China group.
+
+# AD HOC GROUP ON ARTICLE 13
+
+AG13 Chair Patrick Széll reported on the contact group tasked to  resolve outstanding issues on paragraph 11 (Committee) of the  report of the meeting and on paragraph 9 of the terms of  reference for the Multilateral Consultative Process (MCP). The  group has agreed that: in paragraph 9, 'geographical  distribution' will not be placed in brackets, but a footnote  denoting that this represents the G-77/China view will be  included; the proposal by the US to designate half the members  for Annex I Parties and half for non-Annex I Parties will be  placed in brackets with a similar footnote denoting that it  represents the view expressed by some Parties. The report of the  meeting and draft of the MCP were adopted and will be presented  at COP-4.
+
+# CONTACT GROUPS
+
+## Land Use Change and Forestry
+
+The contact group on Land Use  Change and Forestry adopted the Chair's revised draft  conclusions. Under the conclusions, SBSTA would, inter alia:  organize a workshop prior to COP-4 to consider data availability  in relation to Article 3.3; plan a workshop after COP-4 to focus  on issues arising from Article 3.4; ask the IPCC to prepare a  special report to enable the COP to take decisions on land use,  land change and forestry at COP/MOP-1. The special report would  address the methodological, scientific and technical  implications of the Protocol, particularly Article 3. The  conclusions state that issues not covered by the special report  would be included in the TAR.
+
+Technology: On technology information centre(s), the G-77/CHINA  requested more time to reach a group position. The EU asked for  comments on the remainder of the text. Following proposals from  the PHILIPPINES, the US cautioned against re-opening agreed  text. The group could not reach a conclusion and will consider  the issue at SBSTA-9.
+
+Adverse Effects of Climate Change and Impacts of Response  Measures: The contact group on implementation of FCCC Articles  4.8 and 4.9 (adverse effects and impacts) reconvened to review a  Co-Chairs' compilation together with a G-77/China draft decision  paper. SAUDI ARABIA bracketed a US proposal to reference an AGBM  roundtable and the IPCC Oslo workshop on the economic impacts of  Annex I actions on all countries. Parties disagreed over the  'considerable uncertainties' associated with the assessment of  adverse effects of climate change and 'very considerable  uncertainties' regarding the impact of response measures. The  US, the EU and AUSTRALIA said the uncertainties regarding the  impact of response measures are greater. SAUDI ARABIA preferred  'considerable uncertainties' regarding response measures and  proposed merging effects and impacts in one paragraph. He  bracketed the word 'very.' The US objected and said there were  huge uncertainties surrounding the impact of response measures.  The G-77/CHINA agreed to use two paragraphs and proposed  deleting the word 'very.' The G-77/CHINA and the US supported  deletion of a paragraph noting the difficulty in distinguishing  between natural and human-induced climate change. The EU placed  it in brackets.
+
+On a paragraph requesting the SBSTA to provide information,  JAPAN proposed deleting a reference to Protocol Articles 2.13  and 3.14, and said Parties needed to agree a process for  delivery of the information. VENEZUELA proposed adding a  reference to assisting the COP/MOP-1 in its consideration of the  Protocol Articles. The alternative proposals referencing the  Protocol were placed in brackets. The EU, supported by  AUSTRALIA, JAPAN and the US,  preferred to drop the list of  information requests and to reference an earlier paragraph in  the Co-Chairs' text, on identification of effects and impacts.  The additional request for information related to the  [identification] of adverse effects and impacts was also placed  in brackets together with a reference to vulnerability  assessment. The US added national communications under FCCC  Article 12 to information sources. Parties agreed a paragraph  stating that the Secretariat could assist SBSTA by, if  necessary, drawing on the roster of experts and organizing  expert meetings.
+
+Mechanisms: The contact group on mechanisms continued discussion  of the elements of the G-77/China's proposed work programme.  Countries were limited to volunteering proposals for additional  elements and questions for clarification. For CDM and Article 6  projects, delegates considered elements under  methodological/technical work, institutional issues, process and  linkages, as well as participation in projects under CDM. For  emissions trading between Annex I Parties, delegates considered  general issues.
+
+On emissions trading, the US questioned the inclusion of  language on rights and entitlements of Annex I Parties. The G-77/CHINA commented that 'rights' is in the literature on  domestic common property resource trading schemes and in the  FCCC regarding the right to develop. The EU, with the US, stated  that entitlements for trading have already been established  under the Kyoto Protocol. The US said it is not 'rights' but  'assigned amounts' that are discussed in the Protocol, and that  the emissions and allocations of non-Annex I Parties will only  be addressed in the longer term when they participate. He  invited discussion on this. Several delegates questioned the  inclusion of language on funding of adaptation in the G-77/China's paper.
+
+Additional elements were proposed by Annex I Parties, including  SWITZERLAND, the EU, the US, CANADA, AUSTRALIA and NEW ZEALAND.  Under emissions trading, new text covered, inter alia,  involvement of legal entities and verification, reporting and  accountability with regard to principles, modalities, rules and  guidelines. Under the other topics additions were proposed on  such topics as: review of implementation of Article 6 by expert  review teams; methodological issues surrounding additionality;  guidelines for projects and project baselines on sinks; an  overall institutional framework; Executive Board supervision;  and accessibility of participation. A proposal for guidelines on  the eligibility of projects initiated under the AIJ pilot phase  for generation of emissions reduction units was opposed by the  G-77/CHINA.
+
+The Chair proposed to prepare a set of 'Chairs' personal notes'  based on the discussion.
+
+In the evening, Chair Meira Filho (Brazil) recalled that work  remained on linkages under CDM and Article 6. Delegates received  a revised proposal on the work programme on mechanisms  incorporating additions from the morning session, as well as  'Chairs' personal notes.' The EU sought clarification on whether  issues mentioned yesterday would be reflected in the proposed  work programme. The US queried the status of the new paper and  objected to the Chair's suggestion that no new items or  categories should be added. Noting the efforts to provide  flexibility, the US said he could not accept the paper as a  consensus document. The Chair clarified that due to time  constraints, the contact group could not wait for consideration  of issues raised by the US and proposed addressing them in the  next session. The US objected to the Chair's proposal, saying  all ideas must be presented in a complete way.
+
+SAUDI ARABIA noted the efforts made by the G-77/China and  stressed that other issues must be considered. He said that all  issues are a package and progress on one issue cannot be  expected while others are blocked. The US expressed  disappointment that the G-77/China position paper  (FCCC/SB/1998/Misc.1/Add.5) had just emerged as a miscellaneous  (misc.) document. He called for a break to study the document.
+
+Following several breaks, the Chair proposed to take into  account all comments discussed, prepare a Co-Chairs' report with  a section on personal notes and on the proposed work programme,  including new submissions of items. The paper will have no legal  status and will not be subject to editing. He requested the  group to allow the Co-Chairs to conclude this and only show the  outcome to representatives of the G-77/China, the EU, the US,  Saudi Arabia and any interested Parties before presenting it to  the Chairs of the subsidiary bodies. The group adjourned at  approximately 10:45 pm.
+
+Review of Adequacy of Commitments: The contact group on review  of adequacy of Article 4.2(a) and (b) met in a closed meeting in  the afternoon.
+
+Allocation of Work for COP/MOP-1: The contact group on  allocation of work for COP/MOP-1 failed to reach agreement. The  Chair stated that he would report the results to the Chairs of  the subsidiary bodies.
+
+# THINGS TO LOOK FOR
+
+### SBI
+
+SBI will meet at 10:00 am and 3:00 pm in the Maritim Room.
+
+### SBSTA
+
+SBSTA will meet at 10:00 am and 3:00 pm in the Beethoven  Room.
