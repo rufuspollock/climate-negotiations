@@ -3,7 +3,7 @@ title: ""
 id: enb12601e
 url: http://www.iisd.ca/vol12/enb12601e
 date: 
-abstract: ""
+abstract: 
 ---
 
 BONN CLIMATE CHANGE CONFERENCE

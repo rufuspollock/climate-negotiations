@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: FRIDAY, 10 FEBRUARY 1995"
 id: 1206000e
 url: http://www.iisd.ca/vol12/1206000e
 date: 1995-02-10
-abstract: ""
+abstract: 
 ---
 
 # PLENARY

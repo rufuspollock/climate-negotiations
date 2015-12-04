@@ -3,7 +3,7 @@ title: "CLIMATE CHANGE CONVENTION COP-1 HIGHLIGHTS:: WEDNESDAY, 29 MARCH 1995"
 id: 1214000e
 url: http://www.iisd.ca/vol12/1214000e
 date: 1995-03-29
-abstract: ""
+abstract: 
 ---
 
 # COMMITTEE OF THE WHOLE

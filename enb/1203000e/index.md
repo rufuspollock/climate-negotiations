@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: TUESDAY, 7 FEBRUARY 1995"
 id: 1203000e
 url: http://www.iisd.ca/vol12/1203000e
 date: 1995-02-07
-abstract: ""
+abstract: 
 ---
 
 # WORKING GROUP I

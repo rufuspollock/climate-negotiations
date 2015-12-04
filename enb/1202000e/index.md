@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: MONDAY, 6 FEBRUARY 1995"
 id: 1202000e
 url: http://www.iisd.ca/vol12/1202000e
 date: 1995-02-06
-abstract: ""
+abstract: 
 ---
 
 # PLENARY

@@ -45,12 +45,13 @@ def convert(inpath, outpath=None):
 
     # we quote the title and the abstract in yaml to avoid issue with fact that
     # yaml does not allow : in values
+    abstract = '"%s"' % abstract if abstract else ''
     fout.write('''---
 title: "%s"
 id: %s
 url: %s
 date: %s
-abstract: "%s"
+abstract: %s
 ---
 
 ''' % (title, fileid, baseurl + fileid, date, abstract)

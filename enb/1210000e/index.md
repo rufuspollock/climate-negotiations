@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: THURSDAY, 16 FEBRUARY 1995"
 id: 1210000e
 url: http://www.iisd.ca/vol12/1210000e
 date: 1995-02-16
-abstract: ""
+abstract: 
 ---
 
 # PLENARY

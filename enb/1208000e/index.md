@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: TUESDAY, 14 FEBRUARY 1995"
 id: 1208000e
 url: http://www.iisd.ca/vol12/1208000e
 date: 1995-02-14
-abstract: ""
+abstract: 
 ---
 
 # WORKING GROUP I

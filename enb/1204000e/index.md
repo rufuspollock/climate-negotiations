@@ -3,7 +3,7 @@ title: "INC-11 HIGHLIGHTS: WEDNESDAY, 8 FEBRUARY 1995"
 id: 1204000e
 url: http://www.iisd.ca/vol12/1204000e
 date: 1995-02-08
-abstract: ""
+abstract: 
 ---
 
 # PLENARY

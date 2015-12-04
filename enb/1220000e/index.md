@@ -3,7 +3,7 @@ title: "CLIMATE CHANGE CONVENTION COP-1 HIGHLIGHTS:: THURSDAY, 6 APRIL 1995"
 id: 1220000e
 url: http://www.iisd.ca/vol12/1220000e
 date: 1995-04-06
-abstract: ""
+abstract: 
 ---
 
 # MINISTERIAL SEGMENT

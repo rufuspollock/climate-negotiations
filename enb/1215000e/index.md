@@ -3,7 +3,7 @@ title: "CLIMATE CHANGE CONVENTION COP-1 HIGHLIGHTS:: THURSDAY, 30 MARCH 1995"
 id: 1215000e
 url: http://www.iisd.ca/vol12/1215000e
 date: 1995-03-30
-abstract: ""
+abstract: 
 ---
 
 # PLENARY

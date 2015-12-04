@@ -3,7 +3,7 @@ title: "CLIMATE CHANGE CONVENTION COP-1 HIGHLIGHTS:: TUESDAY, 4 APRIL 1995"
 id: 1218000e
 url: http://www.iisd.ca/vol12/1218000e
 date: 1995-04-04
-abstract: ""
+abstract: 
 ---
 
 # COMMITTEE OF THE WHOLE
