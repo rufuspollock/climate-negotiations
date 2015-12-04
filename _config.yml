@@ -29,17 +29,15 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "pages"
+      path: ""
     values:
-      layout: page
-      section: pages
+      layout: "page"
+      edit: true
   -
     scope:
-      path: "posts"
+      path: "enb"
     values:
-      layout: post
-      section: posts
-
+      section: "enb"
 
 related_projects:
   -
