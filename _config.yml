@@ -1,0 +1,65 @@
+# Site settings
+title: History of the UN Climate Change Negotiations
+short_title: Climate Negotiations
+description: |
+    Information on 20 years of UN Climate Change negotiations from the Earth Negotiations Bulletin of the IISD
+baseurl: ""
+url: "http://opendatahandbook.org" # the base hostname & protocol for your site
+github_username:  okfn
+github_repo:  opendatahandbook
+paypal: admin@okfn.org
+contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
+
+devs:
+
+contributors:
+  -
+      name: Rufus Pollock
+      link: http://rufuspollock.org/
+
+supporters:
+
+
+#googleanalytics: UA-XXXXX-X
+
+markdown: kramdown
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: page
+      section: pages
+  -
+    scope:
+      path: "posts"
+    values:
+      layout: post
+      section: posts
+
+
+related_projects:
+  -
+      name: OpenGovernmentData.org
+      link: http://opengovernmentdata.org/
+  -
+      name: The DataHub
+      link: http://datahub.io/
+  -
+      name: DataCatalogs.org
+      link: http://datacatalogs.org/
+  -
+      name: OpenSpending.org
+      link: http://openspending.org/
+  -
+      name: SchoolOfData.org
+      link: http://schoolofdata.org/
+  -
+      name: OpenDefinition.org
+      link: http://opendefinition.org/
+  -
+      name: Introducing Open Data
+      link: http://okfn.org/opendata/
