@@ -3,7 +3,7 @@ title: History of the UN Climate Change Negotiations
 short_title: Climate Negotiations
 description: |
     Information on 20 years of UN Climate Change negotiations from the Earth Negotiations Bulletin of the IISD
-baseurl: ""
+baseurl: "/climate-negotiations/"
 url: "http://opendatahandbook.org" # the base hostname & protocol for your site
 github_username:  okfn
 github_repo:  opendatahandbook
