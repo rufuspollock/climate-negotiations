@@ -1,9 +1,10 @@
-Information on the UNFCC climate negotiations using the [Earth Negotiations
-Bulletin][enb] from the IISD. The [Earth Negotiations Bulletin (ENB)][enb]
-produced by the IISD provides the richest and most neutral reporting system on
-the United Nations negotiations on the environment. The [ENB volume 12][vol12],
-in particular, have been covering for more than 20 years the discussions of the
-UN Framework Convention on Climate Change.
+Information on 20 years of the UN Climate Change negotiations from the [Earth
+Negotiations Bulletin][enb] of the IISD. The [Earth Negotiations Bulletin
+(ENB)][enb] produced by the IISD provides the richest and most neutral
+reporting system on the United Nations negotiations on the environment. The
+[ENB volume 12][vol12], in particular, have been covering for more than 20
+years the discussions of the UN Framework Convention on Climate Change
+(UNFCCC).
 
 [enb]: http://www.iisd.ca/enb/
 [vol12]: http://www.iisd.ca/enb/vol12/
