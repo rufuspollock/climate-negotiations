@@ -25,7 +25,6 @@ RE_DATE = re.compile(r'''
 
 def convert(inpath, outpath=None):
     fileid = os.path.splitext(os.path.basename(inpath))[0]
-    print fileid
     if outpath == None:
         outpath = os.path.join('enb', fileid, 'index.md')
 
@@ -44,12 +43,14 @@ def convert(inpath, outpath=None):
     except AttributeError, ValueError:
         date = ''
 
+    # we quote the title and the abstract in yaml to avoid issue with fact that
+    # yaml does not allow : in values
     fout.write('''---
-title: %s
+title: "%s"
 id: %s
 url: %s
 date: %s
-abstract: %s
+abstract: "%s"
 ---
 
 ''' % (title, fileid, baseurl + fileid, date, abstract)
