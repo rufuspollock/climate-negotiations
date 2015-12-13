@@ -77,14 +77,20 @@ def process_document(row, event_id, url):
     date = parse_date(raw_date)
     pdf = parse_url(raw_pdf, url)
     html = parse_url(raw_html, url)
+    _id = parse_document_id(html)
 
     return {
+        'id': _id,
         'event_id': event_id,
-        'id': issue,
+        'issue': issue,
         'date': serialize_date(date),
         'pdf': pdf,
         'html': html  
     }
+
+
+def parse_document_id(url):
+    return re.search(r'([^/]+)\.html', url).group(1)
 
 
 def parse_issue(raw):
@@ -172,7 +178,7 @@ def write_csv(events, documents):
     ]
 
     DOCUMENTS_HEADERS = [
-        'id', 'event_id', 'date', 'pdf', 'html'
+        'id', 'event_id', 'issue', 'date', 'pdf', 'html'
     ]
 
     _write_csv(evfn, events, EVENTS_HEADERS)
