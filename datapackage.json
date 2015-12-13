@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "name": "documents",
+      "path": "data/documents.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 81051,
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "ID built from document's HTML report URL"
+          },
+          {
+            "name": "event_id",
+            "type": "string",
+            "description": "Event's ID where the document was originated from"
+          },
+          {
+            "name": "issue",
+            "type": "integer",
+            "description": "ENB's issue number"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "Date covered by the document"
+          },
+          {
+            "name": "pdf",
+            "type": "string",
+            "description": "URL pointing to the document's PDF report"
+          },
+          {
+            "name": "html",
+            "type": "string",
+            "description": "URL pointing to the document's HTML report"
+          }
+        ]
+      }
+    },
+    {
+      "name": "events",
+      "path": "data/events.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 17512,
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "ID built from event's year and short title"
+          },
+          {
+            "name": "start_date",
+            "type": "date",
+            "description": "Event's start date"
+          },
+          {
+            "name": "end_date",
+            "type": "date",
+            "description": "Event's end date"
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "City where the event was held"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "Country where the event was held"
+          },
+          {
+            "name": "short_title",
+            "type": "string",
+            "description": "Event's short title"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Event's full title"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "climate-negotiations",
+  "title": "",
+  "description": "Information on 20 years of the UN Climate Change negotiations from the [Earth",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "git://github.com/rgrp/climate-negotiations.git"
+}
