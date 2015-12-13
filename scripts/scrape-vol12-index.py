@@ -53,20 +53,20 @@ def process_soup(soup, url):
 
 
 def process_event(th, h3, event_id):
-    short_name, raw_date, raw_location = th.contents[1].split(' | ')
+    short_title, raw_date, raw_location = th.contents[1].split(' | ')
 
-    name = h3.text
+    title = h3.text
     city, country = parse_location(raw_location)
     start_date, end_date, no_day = parse_date_interval(raw_date)
 
     return {
        'id': event_id,
-       'short_name': short_name,
-       'name': name,
        'start_date': serialize_date(start_date, no_day),
        'end_date': serialize_date(end_date, no_day),
        'city': city,
-       'country': country
+       'country': country,
+       'short_title': short_title,
+       'title': title,
     }
 
 
@@ -174,7 +174,8 @@ def write_csv(events, documents):
     )
 
     EVENTS_HEADERS = [
-        'id', 'short_name', 'name', 'start_date', 'end_date', 'city', 'country'
+        'id', 'start_date', 'end_date', 'city',
+        'country', 'short_title', 'title'
     ]
 
     DOCUMENTS_HEADERS = [
