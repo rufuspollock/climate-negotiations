@@ -5,7 +5,6 @@
       "path": "data/documents.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 81051,
       "schema": {
         "fields": [
           {
@@ -46,7 +45,6 @@
       "path": "data/events.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 17512,
       "schema": {
         "fields": [
           {

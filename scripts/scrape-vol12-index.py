@@ -47,7 +47,8 @@ def process_soup(soup, url):
                 events.append(process_event(th, h3, event_id))
 
         else:
-            documents.append(process_document(row, event_id, url))
+            event_end_date = events[-1]['end_date']
+            documents.append(process_document(row, event_id, event_end_date, url))
             
     return events, documents
 
@@ -70,11 +71,11 @@ def process_event(th, h3, event_id):
     }
 
 
-def process_document(row, event_id, url):
+def process_document(row, event_id, event_end_date, url):
     raw_issue, raw_date, raw_pdf, raw_html = row.find_all('td')
 
     issue = parse_issue(raw_issue)
-    date = parse_date(raw_date)
+    date = parse_date(raw_date, event_end_date)
     pdf = parse_url(raw_pdf, url)
     html = parse_url(raw_html, url)
     _id = parse_document_id(html)
@@ -109,12 +110,12 @@ def parse_location(raw):
         return None, None
 
 
-def parse_date(raw):
+def parse_date(raw, default=None):
     try:
         date = raw.text.lower()
         date = datetime.strptime(date, '%d %B %Y')
     except ValueError:
-        pass
+        date = default or date
 
     return date
 
